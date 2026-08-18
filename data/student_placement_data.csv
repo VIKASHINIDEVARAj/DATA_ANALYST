@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Department,CGPA,Attendance,Python_Skill,Java_Skill,DSA_Skill,Projects,Internships,Communication_Score,Aptitude_Score,Placement,Salary_LPA
+1,21,Female,Data Science,7.84,93.1,8,5,1,1,1,77,84,Yes,9.16
+2,22,Male,Electronics,7.66,90.6,9,7,2,2,1,89,100,Yes,6.24
+3,19,Male,Information Technology,5.62,82.9,3,1,10,0,0,58,52,No,0.0
+4,21,Male,Electronics,7.04,98.2,3,5,10,3,1,95,90,Yes,3.37
+5,21,Male,Electronics,7.21,68.0,4,2,4,1,3,86,89,No,0.0
+6,22,Male,Data Science,7.29,64.4,5,4,1,0,2,65,99,No,0.0
+7,19,Female,Electronics,8.11,94.2,10,7,8,4,2,78,58,Yes,10.23
+8,19,Male,Data Science,7.9,77.6,1,5,9,1,3,49,40,Yes,9.45
+9,21,Female,Computer Science,8.24,93.9,7,6,4,1,2,77,79,Yes,4.84
+10,20,Female,Computer Science,8.94,95.7,9,2,10,3,0,53,71,Yes,5.22
+11,21,Male,Data Science,9.16,62.5,8,3,3,2,1,88,61,Yes,11.96
+12,21,Male,Computer Science,8.73,95.3,5,7,2,2,1,80,87,Yes,3.93
+13,21,Female,Information Technology,9.8,77.9,4,2,5,1,1,58,68,Yes,4.63
+14,21,Male,Electronics,5.58,80.4,7,6,3,0,0,69,41,No,0.0
+15,22,Male,Information Technology,6.38,85.1,5,5,10,4,0,44,79,No,0.0
+16,19,Female,Electronics,5.53,97.1,7,10,7,4,0,94,77,Yes,4.89
+17,22,Female,Computer Science,8.41,60.8,1,1,6,0,3,70,87,No,0.0
+18,22,Male,Information Technology,9.54,79.1,1,10,1,1,0,46,94,Yes,7.28
+19,22,Female,Computer Science,6.6,87.5,10,4,8,4,2,58,50,Yes,11.11
+20,21,Male,Electronics,9.67,88.9,3,2,2,2,3,70,56,Yes,3.31
+21,20,Male,Data Science,5.77,87.7,2,4,5,0,3,91,94,No,0.0
+22,19,Male,Data Science,9.7,65.4,2,1,9,3,3,97,90,Yes,8.37
+23,20,Female,Information Technology,7.08,72.0,7,2,8,1,0,78,82,No,0.0
+24,22,Female,Computer Science,5.96,74.3,10,8,2,0,3,63,99,No,0.0
+25,22,Female,Computer Science,7.69,92.2,2,6,9,4,0,73,47,Yes,10.34
+26,20,Female,Information Technology,6.66,71.2,4,2,5,1,0,96,61,No,0.0
+27,20,Female,Data Science,6.78,68.4,2,6,10,2,3,62,43,No,0.0
+28,20,Male,Electronics,6.88,98.3,6,10,6,1,1,87,50,Yes,7.45
+29,22,Male,Information Technology,9.11,60.4,8,9,3,1,1,84,47,Yes,4.2
+30,22,Male,Electronics,7.93,99.9,10,7,3,2,3,79,48,Yes,10.97
+31,19,Male,Data Science,6.9,87.1,4,9,10,2,1,45,65,Yes,8.84
+32,19,Female,Computer Science,8.25,93.1,5,5,8,1,2,77,41,Yes,4.47
+33,22,Male,Data Science,8.72,71.8,4,7,10,2,2,80,55,Yes,3.3
+34,20,Female,Information Technology,6.73,60.6,3,7,10,0,0,75,70,No,0.0
+35,20,Male,Computer Science,7.36,89.5,5,3,2,2,1,66,45,No,0.0
+36,19,Female,Information Technology,6.05,93.4,9,7,2,2,2,50,92,No,0.0
+37,22,Female,Information Technology,6.32,89.6,8,1,5,1,3,44,60,No,0.0
+38,19,Male,Data Science,8.57,65.7,8,9,6,0,1,96,65,Yes,3.23
+39,19,Male,Information Technology,6.32,90.1,8,10,2,3,2,56,98,Yes,9.51
+40,21,Male,Data Science,7.86,90.8,8,6,5,3,2,91,58,Yes,10.29
+41,21,Male,Computer Science,8.69,86.3,7,5,7,4,3,46,67,Yes,10.17
+42,21,Female,Data Science,5.98,90.6,8,7,10,2,0,66,47,No,0.0
+43,20,Male,Computer Science,8.05,93.8,8,5,10,2,3,86,53,Yes,11.13
+44,22,Male,Data Science,6.65,84.5,8,10,8,0,0,96,63,Yes,9.05
+45,22,Female,Electronics,9.83,63.5,10,5,7,3,2,54,87,Yes,11.08
+46,22,Male,Electronics,7.68,79.5,7,10,8,4,0,85,83,Yes,7.02
+47,22,Male,Information Technology,9.13,63.1,1,7,9,0,2,52,76,Yes,6.93
+48,21,Male,Data Science,7.98,76.3,4,10,5,2,2,50,95,Yes,10.06
+49,20,Male,Data Science,5.7,76.3,4,7,5,3,1,99,65,No,0.0
+50,20,Male,Computer Science,8.35,62.6,5,3,10,4,0,84,70,Yes,7.69
+51,21,Female,Information Technology,9.78,74.0,10,3,4,1,0,65,95,Yes,10.53
+52,20,Male,Data Science,8.21,64.4,6,10,9,3,0,61,90,Yes,10.47
+53,21,Male,Information Technology,9.19,92.3,4,3,5,4,3,67,71,Yes,11.61
+54,22,Male,Electronics,9.48,97.9,2,6,2,0,1,63,89,Yes,9.28
+55,21,Male,Data Science,6.53,62.9,6,6,10,1,1,68,80,No,0.0
+56,22,Male,Data Science,6.45,98.2,8,3,8,4,1,48,41,Yes,3.18
+57,22,Female,Information Technology,8.25,80.9,8,3,7,4,3,81,64,Yes,7.31
+58,19,Male,Data Science,7.35,72.0,7,8,8,2,0,43,91,Yes,7.62
+59,21,Female,Information Technology,9.28,63.1,6,8,3,3,0,88,83,Yes,5.16
+60,19,Female,Data Science,9.55,80.0,2,7,4,2,0,85,100,Yes,4.12
+61,21,Male,Computer Science,7.09,91.8,7,10,5,1,1,95,41,Yes,8.28
+62,21,Male,Information Technology,6.57,88.3,5,4,6,4,1,57,81,No,0.0
+63,19,Male,Data Science,9.01,62.0,6,4,1,2,2,82,40,Yes,11.94
+64,19,Male,Electronics,6.74,62.9,10,3,4,3,3,55,75,Yes,9.82
+65,21,Female,Data Science,9.2,76.1,8,5,10,1,3,72,96,Yes,10.14
+66,20,Male,Electronics,7.41,71.8,8,3,5,0,1,68,51,No,0.0
+67,22,Male,Electronics,8.5,69.3,3,8,7,2,2,78,48,Yes,11.87
+68,19,Male,Computer Science,5.93,71.2,7,7,5,1,0,99,75,No,0.0
+69,22,Male,Information Technology,8.31,92.1,1,3,1,0,1,49,80,No,0.0
+70,20,Male,Data Science,7.53,97.2,1,9,7,2,3,48,67,Yes,11.51
+71,20,Male,Computer Science,8.14,76.2,7,5,8,1,3,98,77,Yes,11.37
+72,20,Female,Data Science,6.26,96.2,10,9,7,1,3,70,72,Yes,6.43
+73,19,Female,Electronics,8.82,72.9,9,7,4,2,0,67,81,Yes,3.71
+74,20,Male,Information Technology,9.38,79.1,7,7,8,1,3,99,100,Yes,4.55
+75,19,Male,Data Science,6.48,69.0,10,6,5,4,0,96,85,Yes,3.53
+76,20,Male,Data Science,5.93,85.6,5,2,10,2,0,42,61,No,0.0
+77,22,Female,Electronics,5.61,99.2,8,9,9,1,0,93,64,No,0.0
+78,22,Male,Data Science,8.39,84.1,2,6,10,0,1,94,100,Yes,6.07
+79,21,Female,Data Science,8.23,74.3,9,8,5,0,0,53,57,Yes,7.89
+80,22,Male,Electronics,7.96,85.9,6,1,1,4,2,97,45,Yes,9.41
+81,21,Male,Computer Science,6.54,64.9,9,5,9,2,3,64,57,Yes,4.9
+82,22,Male,Electronics,7.26,95.5,2,1,5,1,1,54,91,No,0.0
+83,19,Male,Computer Science,8.18,80.1,3,10,6,1,3,41,55,Yes,9.34
+84,22,Female,Information Technology,7.74,78.0,8,8,4,0,0,63,54,No,0.0
+85,21,Female,Computer Science,9.95,83.4,1,8,6,4,1,53,87,Yes,11.13
+86,21,Male,Computer Science,6.11,85.0,10,1,8,0,2,87,47,No,0.0
+87,20,Male,Information Technology,8.63,62.9,7,9,3,0,0,46,52,No,0.0
+88,19,Female,Computer Science,7.32,87.3,7,2,5,4,3,75,94,Yes,6.86
+89,22,Female,Electronics,7.43,69.7,1,9,2,2,2,89,82,No,0.0
+90,20,Female,Computer Science,8.73,88.6,9,1,2,1,0,63,99,Yes,8.1
+91,22,Female,Information Technology,8.62,92.9,8,10,7,2,2,66,100,Yes,6.59
+92,22,Male,Electronics,9.96,92.2,4,9,10,3,0,76,96,Yes,5.56
+93,20,Female,Information Technology,6.08,82.1,10,4,10,3,1,77,46,Yes,4.53
+94,20,Male,Information Technology,5.97,80.8,5,9,10,3,0,69,56,No,0.0
+95,20,Female,Data Science,8.76,65.7,2,7,6,4,1,66,89,Yes,8.47
+96,20,Female,Data Science,8.1,91.0,9,6,4,0,0,78,71,Yes,8.18
+97,20,Female,Information Technology,6.73,70.9,6,5,5,2,0,54,61,No,0.0
+98,22,Female,Information Technology,5.86,79.9,3,9,1,1,3,65,94,No,0.0
+99,20,Female,Information Technology,5.89,71.4,7,2,7,3,2,40,90,No,0.0
+100,19,Male,Data Science,9.52,65.4,9,2,8,2,2,95,96,Yes,3.11
+101,21,Male,Data Science,6.36,85.2,3,9,9,3,2,43,52,No,0.0
+102,20,Female,Computer Science,6.96,62.2,2,3,8,3,0,68,86,No,0.0
+103,20,Female,Computer Science,6.52,89.9,7,8,5,1,0,96,62,No,0.0
+104,22,Male,Information Technology,7.1,72.7,7,9,3,4,0,40,93,No,0.0
+105,20,Female,Electronics,5.81,60.0,4,8,10,0,1,82,68,No,0.0
+106,20,Female,Electronics,7.84,80.4,9,4,9,4,1,89,61,Yes,6.93
+107,20,Male,Data Science,5.8,61.9,8,1,6,2,3,85,40,No,0.0
+108,22,Female,Data Science,9.1,71.0,1,4,5,4,0,61,68,Yes,10.51
+109,20,Female,Data Science,6.55,88.3,1,9,3,2,2,50,87,No,0.0
+110,21,Male,Information Technology,7.93,62.5,5,2,6,2,2,49,44,No,0.0
+111,22,Male,Electronics,9.46,93.6,6,3,3,0,3,98,97,Yes,10.5
+112,21,Male,Computer Science,8.43,60.2,3,10,10,1,2,56,74,Yes,6.13
+113,22,Female,Information Technology,7.9,69.9,9,8,6,0,3,75,94,Yes,11.03
+114,20,Male,Computer Science,6.96,89.6,10,6,4,4,0,95,49,Yes,7.23
+115,21,Male,Computer Science,7.0,72.7,6,8,2,2,2,86,58,No,0.0
+116,22,Male,Information Technology,8.51,64.1,4,7,8,3,0,65,76,Yes,12.0
+117,19,Male,Computer Science,9.97,74.4,7,5,4,3,1,87,46,Yes,10.59
+118,20,Male,Electronics,8.48,70.8,8,9,9,2,2,60,85,Yes,6.26
+119,22,Male,Computer Science,8.01,93.7,9,4,7,0,1,52,74,Yes,3.09
+120,19,Female,Electronics,8.79,72.5,6,6,2,1,2,48,84,Yes,8.64
+121,22,Female,Electronics,7.59,91.6,6,2,4,0,0,50,52,No,0.0
+122,19,Male,Electronics,5.77,95.7,8,2,5,2,3,50,49,No,0.0
+123,20,Male,Data Science,8.03,77.4,5,2,3,2,0,45,41,No,0.0
+124,21,Male,Computer Science,9.81,96.4,3,10,9,1,0,40,45,Yes,10.77
+125,19,Female,Information Technology,6.29,75.1,3,7,5,4,0,93,47,No,0.0
+126,22,Female,Information Technology,8.61,98.6,6,2,2,4,2,45,75,Yes,3.57
+127,20,Female,Computer Science,6.4,63.6,2,2,3,1,3,52,64,No,0.0
+128,19,Female,Data Science,7.91,87.5,6,9,9,4,1,61,83,Yes,9.2
+129,22,Female,Data Science,5.94,79.8,6,7,7,3,0,95,99,No,0.0
+130,22,Female,Electronics,7.53,75.5,8,3,2,4,2,70,86,Yes,7.84
+131,22,Female,Computer Science,8.9,85.3,7,3,9,4,1,61,79,Yes,7.22
+132,19,Female,Computer Science,7.06,88.2,8,7,4,4,0,76,46,Yes,5.64
+133,19,Female,Information Technology,8.49,60.2,9,5,9,3,1,86,85,Yes,5.5
+134,19,Male,Computer Science,9.08,66.7,6,10,2,4,0,66,62,Yes,7.5
+135,21,Male,Data Science,9.67,88.5,3,6,10,3,1,89,58,Yes,4.45
+136,19,Male,Computer Science,6.56,86.7,10,8,4,1,1,91,85,Yes,6.07
+137,19,Male,Information Technology,7.3,98.6,3,9,5,0,3,53,61,Yes,5.92
+138,19,Female,Electronics,6.19,90.4,1,1,2,1,3,86,52,No,0.0
+139,21,Female,Information Technology,9.97,98.0,5,3,10,0,0,97,100,Yes,3.6
+140,19,Male,Information Technology,9.67,88.1,4,7,1,1,2,44,60,Yes,10.47
+141,22,Female,Electronics,7.93,71.9,9,6,7,0,3,97,40,Yes,8.06
+142,19,Male,Information Technology,9.29,64.2,9,7,10,0,1,75,98,Yes,9.04
+143,22,Female,Information Technology,7.84,91.3,5,8,1,2,3,71,58,Yes,9.33
+144,22,Male,Computer Science,8.31,85.8,10,6,8,0,3,73,100,Yes,5.62
+145,22,Female,Computer Science,5.9,61.9,4,3,3,0,0,46,99,No,0.0
+146,21,Female,Electronics,8.9,74.4,7,2,10,2,3,81,72,Yes,11.61
+147,21,Male,Computer Science,6.07,98.3,6,7,6,4,3,87,43,Yes,9.9
+148,21,Female,Computer Science,9.22,80.0,4,1,7,4,1,49,81,Yes,11.73
+149,19,Male,Information Technology,9.02,77.3,10,3,10,2,3,89,42,Yes,9.72
+150,22,Male,Data Science,8.69,78.3,2,4,1,3,1,56,66,No,0.0
+151,21,Male,Computer Science,5.66,68.4,1,1,6,0,3,69,91,No,0.0
+152,21,Male,Data Science,6.86,74.7,4,5,7,0,3,60,80,No,0.0
+153,19,Female,Computer Science,6.68,74.8,4,10,6,2,2,99,74,Yes,6.22
+154,21,Female,Computer Science,7.12,62.1,1,3,4,2,3,52,67,No,0.0
+155,19,Female,Electronics,5.89,90.7,6,2,1,3,1,40,45,No,0.0
+156,20,Male,Electronics,9.72,76.7,4,3,9,4,1,40,45,Yes,6.3
+157,21,Female,Electronics,7.99,92.9,1,8,4,1,0,86,94,No,0.0
+158,20,Male,Data Science,6.87,94.0,1,6,7,4,0,72,96,No,0.0
+159,19,Female,Information Technology,7.29,68.5,1,7,7,0,2,77,83,No,0.0
+160,22,Female,Computer Science,7.51,86.3,8,6,2,2,1,64,62,No,0.0
+161,21,Female,Computer Science,8.2,78.9,10,6,1,3,1,65,72,Yes,10.49
+162,19,Male,Computer Science,7.82,95.2,8,3,8,4,1,52,55,Yes,10.66
+163,22,Female,Data Science,9.64,68.6,2,8,8,3,2,98,63,Yes,6.82
+164,22,Female,Electronics,7.74,87.1,7,7,7,4,1,67,44,Yes,3.6
+165,20,Male,Information Technology,9.96,84.3,8,7,8,0,0,72,80,Yes,3.01
+166,19,Female,Data Science,9.33,71.8,8,6,3,1,2,76,81,Yes,7.71
+167,22,Male,Electronics,6.44,65.5,10,5,2,3,0,80,52,No,0.0
+168,21,Female,Data Science,9.69,86.1,7,10,7,3,0,69,86,Yes,11.97
+169,21,Male,Information Technology,6.02,89.5,5,8,8,1,2,96,51,No,0.0
+170,20,Male,Electronics,9.18,72.6,1,5,1,3,3,88,44,Yes,9.85
+171,22,Female,Data Science,7.21,85.8,9,9,10,3,3,87,76,Yes,11.6
+172,19,Male,Information Technology,9.45,75.8,7,9,9,4,0,47,70,Yes,10.99
+173,21,Male,Computer Science,9.41,88.5,2,1,4,4,3,88,67,Yes,5.86
+174,22,Male,Information Technology,9.13,68.0,6,6,4,1,1,86,67,Yes,4.49
+175,22,Male,Computer Science,9.06,95.6,2,7,3,0,2,95,69,Yes,9.71
+176,20,Male,Data Science,6.87,71.5,1,3,6,3,0,40,57,No,0.0
+177,21,Male,Electronics,5.86,74.7,7,7,1,0,1,51,83,No,0.0
+178,21,Female,Electronics,7.31,62.3,2,7,6,1,3,44,66,No,0.0
+179,19,Male,Data Science,6.28,64.5,2,2,2,1,1,63,74,No,0.0
+180,21,Male,Electronics,8.63,80.6,5,7,9,4,3,45,65,Yes,6.77
+181,19,Female,Electronics,7.06,70.7,5,1,2,3,0,64,96,No,0.0
+182,21,Female,Computer Science,9.89,93.4,7,5,7,2,1,40,78,Yes,5.42
+183,20,Female,Data Science,8.38,60.6,1,9,1,1,2,64,88,No,0.0
+184,21,Female,Information Technology,9.2,75.2,8,7,7,3,0,40,90,Yes,3.01
+185,19,Female,Computer Science,6.1,73.5,3,7,5,0,1,71,99,No,0.0
+186,19,Female,Data Science,9.38,60.8,4,2,8,4,1,81,57,Yes,3.27
+187,20,Female,Computer Science,9.65,65.0,9,8,4,0,3,81,72,Yes,9.41
+188,21,Male,Information Technology,7.69,76.5,4,3,10,1,0,42,64,No,0.0
+189,21,Male,Information Technology,8.23,79.7,10,8,7,1,0,88,95,Yes,5.4
+190,20,Female,Data Science,8.94,76.2,5,3,6,0,0,58,70,No,0.0
+191,21,Male,Information Technology,6.29,81.2,7,10,5,1,0,99,76,No,0.0
+192,21,Male,Computer Science,7.76,83.8,4,7,4,3,3,82,98,Yes,4.73
+193,19,Male,Information Technology,7.29,60.4,1,2,7,1,2,68,99,No,0.0
+194,21,Female,Computer Science,6.16,78.6,9,4,5,4,0,89,41,No,0.0
+195,21,Female,Computer Science,7.15,98.5,4,6,5,3,3,41,72,Yes,9.02
+196,20,Male,Information Technology,5.81,80.8,9,9,1,2,2,48,78,No,0.0
+197,20,Female,Data Science,5.62,87.1,6,5,2,1,2,95,100,No,0.0
+198,22,Male,Electronics,6.11,72.5,1,9,5,1,3,56,82,No,0.0
+199,19,Male,Information Technology,9.83,91.0,3,5,3,4,0,99,82,Yes,7.89
+200,21,Male,Computer Science,7.97,90.9,2,10,2,4,2,85,71,Yes,5.34
+201,21,Male,Computer Science,9.85,80.9,9,8,4,0,0,75,57,Yes,8.29
+202,22,Female,Information Technology,7.45,99.0,1,1,4,0,0,100,56,No,0.0
+203,21,Female,Data Science,6.9,65.0,9,7,4,0,1,56,73,No,0.0
+204,19,Female,Data Science,7.78,60.7,9,4,4,4,0,88,78,Yes,5.79
+205,22,Male,Computer Science,7.48,90.8,8,5,3,0,1,51,46,No,0.0
+206,19,Female,Computer Science,5.98,92.3,8,6,7,0,2,99,81,No,0.0
+207,22,Male,Data Science,8.38,64.8,1,5,9,2,3,59,93,Yes,11.07
+208,22,Female,Electronics,6.47,70.6,8,1,5,0,1,89,92,No,0.0
+209,20,Male,Information Technology,8.29,60.7,10,9,4,1,3,42,74,Yes,9.58
+210,19,Male,Computer Science,8.43,71.7,3,2,2,4,2,82,69,Yes,11.26
+211,21,Male,Computer Science,6.18,90.9,7,9,2,3,0,96,51,No,0.0
+212,21,Female,Data Science,5.78,80.7,1,10,5,2,2,89,74,No,0.0
+213,19,Female,Information Technology,9.01,73.9,1,2,7,4,3,43,50,Yes,4.78
+214,21,Female,Data Science,7.57,74.9,10,9,10,4,2,56,100,Yes,10.59
+215,21,Female,Information Technology,5.76,60.1,5,6,10,1,0,89,83,No,0.0
+216,19,Male,Information Technology,9.98,72.0,5,9,9,0,2,76,96,Yes,9.69
+217,22,Female,Information Technology,5.76,85.9,8,6,7,1,0,85,43,No,0.0
+218,19,Female,Computer Science,8.63,99.0,7,6,5,0,1,81,64,Yes,9.83
+219,22,Male,Electronics,9.93,93.9,8,2,10,0,3,54,87,Yes,7.79
+220,21,Male,Data Science,6.58,60.9,6,8,10,4,0,72,71,Yes,8.75
+221,21,Male,Electronics,6.14,95.9,6,3,10,0,0,55,59,No,0.0
+222,21,Female,Data Science,6.05,91.3,2,7,6,2,2,50,89,No,0.0
+223,20,Male,Information Technology,6.86,91.2,6,5,3,2,1,94,70,No,0.0
+224,22,Male,Computer Science,5.95,78.3,5,3,5,2,0,59,43,No,0.0
+225,20,Male,Electronics,8.61,75.9,3,1,8,4,1,77,93,Yes,11.68
+226,20,Female,Computer Science,5.78,72.1,6,8,1,1,1,63,77,No,0.0
+227,19,Male,Data Science,7.79,62.6,8,3,1,3,2,100,92,Yes,3.2
+228,20,Female,Computer Science,9.99,69.1,9,2,7,0,0,93,86,Yes,3.5
+229,19,Female,Computer Science,9.16,69.9,1,1,5,3,2,55,40,Yes,3.47
+230,19,Male,Electronics,8.27,79.4,3,4,5,1,3,69,42,Yes,11.17
+231,20,Male,Information Technology,6.88,89.9,3,8,1,1,3,73,76,No,0.0
+232,22,Female,Computer Science,8.31,79.0,8,3,9,4,0,40,61,Yes,9.09
+233,22,Male,Information Technology,7.87,62.3,1,1,1,2,1,63,56,No,0.0
+234,22,Male,Data Science,7.42,98.3,5,4,5,2,0,63,53,No,0.0
+235,22,Female,Computer Science,6.09,97.7,3,9,10,1,0,48,80,No,0.0
+236,22,Female,Electronics,9.49,91.4,2,1,9,4,3,61,74,Yes,6.53
+237,20,Male,Data Science,7.52,99.7,8,2,4,4,3,51,97,Yes,7.41
+238,20,Female,Data Science,6.38,81.8,3,9,8,0,1,56,52,No,0.0
+239,21,Male,Electronics,7.15,98.5,7,2,6,2,1,64,74,No,0.0
+240,22,Male,Computer Science,7.36,63.0,1,3,3,1,0,67,82,No,0.0
+241,20,Male,Computer Science,9.22,74.6,6,7,4,3,2,100,41,Yes,3.32
+242,21,Female,Data Science,8.8,69.0,3,3,2,2,0,54,95,No,0.0
+243,22,Male,Computer Science,8.96,67.8,8,9,1,0,1,69,86,Yes,9.88
+244,19,Male,Information Technology,5.55,65.6,6,6,8,4,2,90,52,No,0.0
+245,21,Male,Electronics,7.37,84.9,2,3,1,1,3,66,90,No,0.0
+246,20,Female,Information Technology,7.67,91.3,6,9,1,2,1,61,93,Yes,3.78
+247,19,Female,Computer Science,5.59,83.1,7,1,4,3,1,49,55,No,0.0
+248,19,Female,Data Science,6.67,65.9,5,10,10,0,2,100,57,Yes,11.09
+249,19,Female,Electronics,8.92,92.4,3,3,10,0,1,97,46,Yes,11.47
+250,21,Female,Computer Science,6.12,85.4,4,1,6,2,1,70,84,No,0.0
+251,20,Male,Computer Science,7.91,75.5,4,2,9,3,1,66,75,Yes,5.59
+252,19,Female,Data Science,6.47,87.0,6,8,1,0,1,51,80,No,0.0
+253,22,Female,Data Science,5.55,70.4,10,7,7,1,1,85,69,No,0.0
+254,19,Female,Information Technology,6.59,73.8,1,2,10,0,1,70,81,No,0.0
+255,19,Male,Electronics,9.89,96.7,4,2,5,3,1,71,80,Yes,3.2
+256,21,Female,Electronics,9.11,71.6,10,9,8,4,1,71,46,Yes,10.82
+257,21,Female,Data Science,9.82,78.8,4,6,7,4,3,80,54,Yes,7.99
+258,20,Male,Information Technology,7.7,95.6,10,5,4,2,1,98,99,Yes,8.48
+259,22,Female,Electronics,5.99,88.3,1,10,4,3,3,84,79,No,0.0
+260,21,Male,Data Science,7.97,62.5,9,6,6,0,3,74,58,Yes,8.99
+261,19,Male,Computer Science,7.54,65.9,4,9,6,0,0,92,82,No,0.0
+262,20,Male,Electronics,9.3,60.3,7,7,9,4,0,100,76,Yes,10.08
+263,19,Male,Information Technology,5.94,85.2,3,10,5,4,3,85,41,No,0.0
+264,19,Male,Information Technology,7.7,77.9,10,10,8,1,3,60,81,Yes,6.24
+265,21,Female,Information Technology,6.18,65.4,3,9,5,4,1,49,87,No,0.0
+266,20,Male,Computer Science,6.96,98.3,8,4,2,1,0,55,94,No,0.0
+267,22,Male,Electronics,8.82,81.2,8,2,6,0,2,46,52,Yes,10.96
+268,22,Female,Electronics,7.64,69.7,1,8,9,1,0,43,79,No,0.0
+269,21,Male,Computer Science,7.19,80.0,10,4,3,1,3,66,80,Yes,10.71
+270,21,Female,Electronics,7.28,87.2,2,9,1,2,3,91,82,Yes,3.44
+271,20,Female,Computer Science,7.57,63.0,8,4,1,4,1,94,82,Yes,4.34
+272,22,Female,Computer Science,9.03,71.0,1,8,3,1,1,64,94,Yes,6.73
+273,22,Male,Computer Science,9.51,92.3,8,9,10,0,0,70,97,Yes,7.35
+274,22,Male,Information Technology,9.8,78.4,8,9,5,3,1,50,70,Yes,5.37
+275,19,Male,Electronics,9.04,81.9,2,10,3,1,2,87,55,Yes,6.21
+276,22,Female,Computer Science,6.92,77.3,4,4,9,4,2,59,81,Yes,4.46
+277,19,Male,Electronics,8.6,61.8,6,1,8,2,1,75,100,Yes,7.4
+278,20,Male,Information Technology,7.47,66.6,9,3,3,0,2,93,95,No,0.0
+279,19,Male,Computer Science,6.65,77.8,8,9,9,2,2,93,83,Yes,8.95
+280,20,Female,Data Science,9.28,68.4,8,4,6,3,0,94,96,Yes,3.97
+281,22,Female,Information Technology,5.67,62.0,7,5,7,1,2,56,45,No,0.0
+282,22,Male,Data Science,9.56,93.7,9,7,4,1,3,84,67,Yes,9.28
+283,20,Male,Electronics,7.58,99.2,2,5,4,4,3,50,71,Yes,7.77
+284,21,Male,Electronics,8.37,91.7,3,4,2,1,0,69,83,No,0.0
+285,20,Male,Information Technology,8.47,94.2,10,2,5,0,1,74,49,Yes,8.6
+286,21,Female,Electronics,9.53,69.7,8,2,8,3,0,80,89,Yes,11.72
+287,19,Female,Data Science,8.37,98.4,6,4,7,2,1,77,57,Yes,3.85
+288,19,Female,Computer Science,8.26,67.9,10,10,7,3,1,61,43,Yes,6.51
+289,19,Female,Computer Science,5.8,98.1,9,10,6,1,1,92,48,No,0.0
+290,22,Male,Computer Science,7.83,99.8,10,9,3,2,1,82,46,Yes,8.19
+291,19,Male,Information Technology,6.18,88.5,4,8,5,4,1,87,89,No,0.0
+292,21,Male,Electronics,8.82,99.2,8,3,1,3,0,90,47,Yes,4.59
+293,19,Female,Data Science,7.8,82.8,10,9,7,2,1,66,82,Yes,5.57
+294,20,Male,Electronics,8.56,70.4,3,5,9,2,2,76,46,Yes,11.6
+295,20,Female,Electronics,5.69,77.5,3,3,1,2,2,85,80,No,0.0
+296,22,Female,Electronics,5.88,83.7,8,5,2,0,1,88,79,No,0.0
+297,20,Male,Computer Science,8.72,62.9,5,10,3,3,2,74,42,Yes,10.35
+298,21,Male,Data Science,5.82,84.9,3,4,3,2,3,43,56,No,0.0
+299,19,Male,Data Science,5.82,99.2,10,8,8,3,0,55,41,No,0.0
+300,22,Female,Electronics,5.55,67.6,1,5,7,2,0,55,54,No,0.0
+301,19,Male,Computer Science,9.8,91.7,3,10,6,4,1,60,85,Yes,6.02
+302,19,Female,Computer Science,8.82,96.3,9,8,10,4,1,65,68,Yes,10.34
+303,21,Male,Data Science,7.09,97.7,5,9,10,4,3,96,89,Yes,10.22
+304,20,Female,Computer Science,6.83,98.4,10,4,4,1,1,75,87,Yes,10.61
+305,20,Female,Computer Science,7.07,80.9,2,7,9,2,2,58,91,Yes,4.04
+306,19,Male,Computer Science,8.99,99.1,7,2,1,1,3,97,61,Yes,11.72
+307,22,Female,Information Technology,8.48,90.3,2,6,2,3,2,56,43,Yes,11.64
+308,20,Female,Electronics,6.33,66.5,4,8,4,1,0,84,96,No,0.0
+309,22,Male,Data Science,6.28,79.1,7,7,3,3,2,65,91,No,0.0
+310,20,Female,Data Science,5.94,88.7,4,7,1,3,0,61,45,No,0.0
+311,22,Male,Information Technology,8.47,69.9,7,8,5,3,2,94,77,Yes,11.94
+312,21,Female,Electronics,8.94,85.6,7,7,7,1,0,97,65,Yes,8.07
+313,22,Male,Data Science,6.69,86.7,1,5,2,2,1,95,50,No,0.0
+314,21,Male,Computer Science,5.59,66.5,6,7,5,1,2,67,65,No,0.0
+315,21,Female,Data Science,5.87,82.6,9,10,6,2,0,40,56,No,0.0
+316,22,Female,Computer Science,9.86,90.9,2,3,7,2,2,83,63,Yes,8.98
+317,21,Female,Information Technology,6.83,80.0,3,5,1,3,3,75,67,No,0.0
+318,19,Female,Computer Science,8.96,60.5,10,7,7,1,1,82,74,Yes,11.69
+319,21,Female,Data Science,8.31,60.4,5,9,4,2,0,76,70,Yes,9.15
+320,20,Male,Data Science,7.22,74.3,9,2,8,4,3,41,52,Yes,10.13
+321,22,Female,Data Science,6.43,97.0,4,4,4,2,2,56,93,No,0.0
+322,19,Male,Information Technology,6.05,69.1,1,7,6,4,3,79,74,No,0.0
+323,22,Male,Information Technology,8.27,85.4,4,1,9,1,2,77,55,Yes,7.39
+324,20,Female,Electronics,8.99,68.9,6,2,5,1,1,60,54,Yes,5.83
+325,20,Male,Data Science,8.4,72.9,5,9,4,1,3,100,82,Yes,4.82
+326,20,Male,Computer Science,7.89,93.9,1,10,8,2,1,48,57,Yes,11.57
+327,21,Male,Information Technology,5.69,89.2,4,7,9,0,0,52,86,No,0.0
+328,21,Male,Data Science,9.86,63.8,6,10,4,2,2,50,76,Yes,4.57
+329,22,Female,Data Science,9.09,77.1,10,7,3,2,2,100,87,Yes,4.79
+330,22,Male,Information Technology,6.82,61.2,10,6,8,3,1,55,87,Yes,5.53
+331,19,Female,Electronics,9.91,79.2,4,3,5,3,1,55,88,Yes,11.99
+332,19,Female,Information Technology,8.21,86.5,9,10,2,2,0,98,80,Yes,5.41
+333,22,Male,Information Technology,8.12,64.7,5,3,10,4,3,41,66,Yes,5.96
+334,21,Female,Computer Science,8.87,71.6,8,2,9,3,2,81,94,Yes,8.93
+335,20,Female,Computer Science,9.15,75.9,9,6,3,2,2,83,74,Yes,5.65
+336,22,Female,Electronics,8.45,96.8,10,4,2,0,0,47,91,Yes,4.94
+337,19,Male,Data Science,6.08,99.7,5,5,1,4,0,82,84,No,0.0
+338,21,Female,Information Technology,7.02,61.8,6,3,8,1,1,81,93,No,0.0
+339,22,Female,Electronics,9.68,90.4,1,6,3,2,1,52,74,Yes,3.95
+340,22,Female,Computer Science,6.51,74.9,7,3,7,2,3,96,67,Yes,3.17
+341,21,Male,Information Technology,7.17,75.7,4,8,1,4,0,56,78,No,0.0
+342,22,Female,Data Science,7.44,90.2,2,9,1,3,3,78,100,Yes,4.24
+343,21,Male,Computer Science,7.48,96.7,5,4,9,3,0,63,77,Yes,9.98
+344,20,Male,Computer Science,8.26,98.0,3,9,8,3,2,42,48,Yes,10.18
+345,21,Male,Computer Science,9.74,83.1,6,7,3,1,0,69,51,Yes,7.84
+346,21,Male,Electronics,6.58,74.3,8,3,6,4,0,91,54,No,0.0
+347,21,Male,Data Science,6.05,91.5,7,7,3,4,2,52,60,No,0.0
+348,22,Male,Information Technology,6.39,70.0,3,1,4,3,0,58,91,No,0.0
+349,22,Female,Electronics,9.49,82.6,8,3,1,3,3,46,74,Yes,8.41
+350,21,Male,Electronics,8.41,74.3,2,6,5,0,1,48,81,No,0.0
+351,22,Female,Electronics,6.79,86.3,10,4,1,0,1,58,72,No,0.0
+352,19,Female,Computer Science,9.17,69.6,9,7,1,2,3,84,90,Yes,11.35
+353,19,Male,Data Science,9.38,67.7,4,3,10,2,2,93,58,Yes,3.6
+354,22,Female,Electronics,9.31,96.7,1,1,7,4,0,79,94,Yes,6.3
+355,22,Female,Information Technology,9.64,64.1,8,9,6,4,3,61,62,Yes,6.62
+356,21,Female,Data Science,6.64,80.2,7,6,2,1,1,57,52,No,0.0
+357,20,Female,Information Technology,8.9,68.8,5,8,2,1,1,100,83,Yes,7.47
+358,22,Male,Data Science,7.57,61.6,10,3,7,0,3,62,40,Yes,9.78
+359,19,Female,Information Technology,9.29,61.4,5,8,1,2,1,41,90,Yes,10.41
+360,21,Male,Computer Science,8.78,67.0,7,2,2,0,3,89,68,Yes,10.91
+361,22,Female,Electronics,8.99,94.7,5,4,8,0,1,89,63,Yes,7.39
+362,19,Female,Information Technology,8.45,71.3,8,3,6,2,3,50,55,Yes,8.68
+363,19,Male,Data Science,6.3,98.0,6,10,2,1,0,70,64,No,0.0
+364,20,Female,Electronics,7.95,83.3,5,1,7,2,0,72,94,No,0.0
+365,21,Female,Electronics,9.93,77.5,9,7,4,3,0,53,62,Yes,4.39
+366,21,Female,Data Science,9.72,83.2,2,10,2,3,0,55,67,Yes,6.33
+367,20,Male,Information Technology,5.69,80.7,1,2,6,3,1,50,86,No,0.0
+368,20,Female,Computer Science,6.24,90.4,8,4,9,4,2,72,55,Yes,6.81
+369,21,Male,Computer Science,6.09,71.3,3,9,9,1,3,46,82,No,0.0
+370,21,Female,Information Technology,8.77,74.1,7,6,8,1,2,70,95,Yes,11.13
+371,22,Male,Electronics,9.18,95.8,10,8,3,4,1,100,77,Yes,6.55
+372,22,Male,Electronics,6.46,97.9,8,2,3,0,1,87,50,No,0.0
+373,20,Female,Electronics,7.78,95.7,6,7,2,3,2,85,42,Yes,9.83
+374,22,Female,Electronics,9.28,76.8,10,6,5,3,2,86,54,Yes,7.6
+375,19,Male,Information Technology,8.8,91.2,9,9,4,0,1,53,40,Yes,8.8
+376,22,Male,Electronics,7.94,79.1,7,7,7,2,1,67,46,Yes,3.92
+377,22,Female,Data Science,8.16,79.9,10,1,4,2,3,92,40,Yes,10.6
+378,19,Male,Electronics,7.79,68.2,5,8,9,1,0,82,88,Yes,8.24
+379,20,Female,Computer Science,6.84,83.6,8,10,2,4,0,55,71,No,0.0
+380,19,Female,Electronics,8.04,67.4,2,3,6,1,3,58,48,No,0.0
+381,22,Female,Information Technology,8.6,73.3,7,2,7,2,2,56,68,Yes,10.51
+382,20,Female,Computer Science,9.43,94.2,4,3,4,0,1,98,65,Yes,10.2
+383,22,Male,Information Technology,8.36,68.3,9,6,6,1,2,65,62,Yes,6.11
+384,19,Female,Information Technology,8.93,62.8,1,3,7,3,0,45,84,No,0.0
+385,19,Male,Computer Science,6.22,62.8,7,10,4,3,0,82,82,No,0.0
+386,22,Female,Information Technology,7.58,97.6,6,5,8,0,2,88,68,Yes,7.21
+387,21,Male,Information Technology,5.54,80.3,8,6,9,2,0,48,91,No,0.0
+388,21,Female,Electronics,6.61,76.4,5,8,1,3,1,89,77,No,0.0
+389,19,Male,Data Science,8.77,92.4,1,7,7,3,3,56,72,Yes,7.88
+390,19,Male,Information Technology,9.96,93.4,1,8,9,4,2,70,46,Yes,11.81
+391,21,Female,Information Technology,5.95,73.3,9,3,10,1,1,51,51,No,0.0
+392,21,Female,Information Technology,7.31,87.7,10,4,5,2,1,62,70,Yes,8.0
+393,22,Female,Electronics,9.1,90.8,6,6,2,1,0,93,71,Yes,11.52
+394,22,Female,Data Science,6.42,86.2,10,7,10,2,1,93,93,Yes,7.54
+395,21,Male,Computer Science,8.0,66.1,5,9,6,3,2,44,59,Yes,10.98
+396,22,Female,Electronics,8.8,95.0,1,1,7,4,1,82,94,Yes,6.22
+397,22,Male,Electronics,8.27,81.6,6,8,2,1,3,75,90,Yes,6.41
+398,20,Male,Data Science,6.35,71.3,6,8,2,3,1,98,56,No,0.0
+399,22,Female,Data Science,7.1,77.0,3,6,10,2,1,75,75,Yes,7.92
+400,19,Male,Electronics,9.03,61.5,8,4,10,1,3,42,42,Yes,7.98
+401,22,Male,Computer Science,7.99,65.1,1,3,1,1,1,97,40,No,0.0
+402,22,Male,Electronics,5.52,90.6,1,3,4,3,1,63,89,No,0.0
+403,21,Male,Data Science,8.92,60.0,6,6,7,1,0,94,66,Yes,11.34
+404,19,Female,Computer Science,5.66,76.7,10,8,9,4,2,96,92,Yes,8.3
+405,22,Female,Data Science,8.86,80.9,1,7,3,4,0,56,86,Yes,6.67
+406,22,Female,Computer Science,6.41,62.2,6,1,7,3,2,78,79,No,0.0
+407,20,Female,Information Technology,9.81,98.9,1,6,7,2,3,65,72,Yes,9.91
+408,22,Male,Data Science,7.16,69.0,6,7,7,3,3,43,59,Yes,11.65
+409,22,Male,Data Science,6.97,72.2,3,7,2,4,3,94,53,No,0.0
+410,20,Female,Electronics,6.17,72.2,8,9,6,0,2,84,75,No,0.0
+411,21,Female,Data Science,6.88,69.2,6,10,2,0,2,51,44,No,0.0
+412,22,Female,Data Science,9.44,60.1,1,5,6,1,2,40,62,Yes,7.31
+413,20,Male,Information Technology,9.98,89.2,5,1,10,1,3,60,84,Yes,11.07
+414,19,Female,Data Science,7.16,98.7,8,2,3,0,2,58,99,No,0.0
+415,21,Female,Information Technology,7.52,69.0,3,4,2,4,1,60,95,No,0.0
+416,19,Female,Information Technology,8.75,86.5,6,5,6,1,0,91,54,Yes,7.37
+417,19,Male,Information Technology,9.49,89.7,5,9,2,3,3,57,45,Yes,11.76
+418,20,Male,Information Technology,8.17,93.9,6,1,5,3,0,82,72,Yes,3.07
+419,22,Male,Computer Science,7.26,76.9,10,3,2,4,1,91,94,Yes,11.09
+420,20,Male,Electronics,7.36,72.1,1,5,3,1,2,42,58,No,0.0
+421,20,Male,Computer Science,8.63,73.0,7,3,3,3,0,100,52,Yes,11.65
+422,20,Male,Data Science,5.51,88.5,9,4,6,1,1,88,68,No,0.0
+423,20,Male,Computer Science,8.29,92.7,2,3,6,1,1,83,100,Yes,4.55
+424,21,Male,Computer Science,7.1,67.3,10,4,10,3,0,71,45,Yes,8.88
+425,22,Female,Data Science,9.07,74.8,5,1,3,0,3,49,54,Yes,3.23
+426,19,Female,Data Science,5.92,96.1,10,8,3,3,0,79,55,No,0.0
+427,19,Male,Data Science,8.15,92.3,4,4,1,4,3,54,63,Yes,4.99
+428,22,Male,Computer Science,7.66,99.4,6,7,7,2,2,44,62,Yes,7.61
+429,19,Female,Computer Science,8.39,90.2,6,2,8,3,3,43,87,Yes,7.91
+430,22,Male,Data Science,5.79,75.7,2,2,2,1,2,97,49,No,0.0
+431,19,Male,Electronics,8.11,83.6,2,6,4,1,0,67,93,No,0.0
+432,20,Male,Electronics,8.03,86.4,4,2,10,3,2,92,80,Yes,7.5
+433,19,Female,Information Technology,8.02,63.1,1,6,7,2,1,91,80,No,0.0
+434,22,Female,Data Science,8.22,81.8,9,2,8,3,2,90,88,Yes,4.34
+435,22,Female,Information Technology,8.54,88.4,7,4,1,2,3,92,56,Yes,6.59
+436,22,Female,Electronics,9.12,66.7,7,7,4,2,3,43,88,Yes,11.14
+437,22,Female,Information Technology,6.71,91.2,3,8,6,4,3,54,95,Yes,11.99
+438,22,Male,Data Science,9.21,83.4,3,3,3,1,2,56,83,Yes,11.88
+439,21,Female,Data Science,7.74,98.1,1,9,5,1,3,83,84,Yes,10.94
+440,21,Male,Data Science,5.85,61.7,3,2,10,2,3,42,69,No,0.0
+441,19,Male,Computer Science,5.76,70.6,3,8,9,1,1,49,83,No,0.0
+442,22,Female,Information Technology,7.0,84.1,4,8,3,0,2,86,85,No,0.0
+443,19,Female,Electronics,9.03,71.9,4,4,5,2,1,81,49,Yes,8.84
+444,22,Male,Electronics,8.68,88.6,3,1,8,1,3,95,94,Yes,5.78
+445,22,Male,Electronics,9.05,90.4,10,1,6,0,3,62,58,Yes,8.46
+446,21,Male,Computer Science,7.83,64.1,8,2,4,4,3,57,68,Yes,7.71
+447,21,Female,Computer Science,7.48,80.6,8,9,8,1,2,40,41,Yes,3.22
+448,20,Female,Data Science,6.16,80.4,1,2,3,0,0,74,75,No,0.0
+449,21,Female,Electronics,6.98,74.8,7,2,3,3,3,92,58,No,0.0
+450,20,Female,Computer Science,7.45,97.3,2,6,4,3,3,97,46,Yes,5.64
+451,20,Female,Data Science,5.9,93.1,1,7,9,0,3,70,65,No,0.0
+452,20,Male,Electronics,6.49,87.9,3,7,5,2,3,98,54,No,0.0
+453,20,Female,Information Technology,8.19,88.6,4,9,8,2,2,83,86,Yes,3.57
+454,20,Male,Data Science,8.81,78.5,6,6,6,1,0,40,95,Yes,11.22
+455,19,Male,Computer Science,9.99,96.8,10,8,3,3,0,42,77,Yes,6.74
+456,21,Male,Computer Science,9.7,87.8,5,6,8,2,0,42,42,Yes,7.14
+457,20,Female,Data Science,8.39,89.2,4,2,9,2,3,76,77,Yes,6.15
+458,22,Female,Data Science,7.4,94.5,8,1,8,3,3,58,55,Yes,8.65
+459,21,Female,Computer Science,8.36,71.0,4,5,4,4,0,68,41,No,0.0
+460,21,Male,Information Technology,9.04,92.3,10,9,6,2,0,64,70,Yes,8.83
+461,20,Male,Electronics,6.03,67.8,2,8,1,0,3,72,67,No,0.0
+462,19,Male,Information Technology,7.34,73.8,3,4,4,1,3,75,46,No,0.0
+463,20,Male,Data Science,9.28,73.4,6,5,8,2,1,100,69,Yes,10.77
+464,19,Male,Information Technology,7.23,99.1,8,5,1,2,1,68,82,No,0.0
+465,22,Male,Computer Science,8.07,94.3,8,6,3,4,1,97,97,Yes,4.93
+466,21,Female,Data Science,8.14,88.0,9,3,1,0,0,65,46,No,0.0
+467,22,Female,Electronics,6.33,89.1,7,5,9,1,2,43,75,No,0.0
+468,19,Female,Computer Science,7.13,82.5,2,2,2,2,3,88,68,No,0.0
+469,19,Female,Computer Science,7.01,97.9,8,10,9,1,1,53,63,Yes,10.5
+470,22,Male,Electronics,5.62,79.9,7,1,4,3,2,89,91,No,0.0
+471,19,Male,Electronics,5.61,75.2,8,1,2,2,3,66,78,No,0.0
+472,22,Female,Information Technology,9.24,66.5,3,10,4,2,2,72,43,Yes,3.57
+473,21,Male,Data Science,6.73,91.4,7,7,10,3,0,61,68,Yes,3.28
+474,22,Female,Electronics,7.83,89.4,10,2,6,4,0,87,83,Yes,5.33
+475,21,Female,Electronics,6.84,75.4,9,4,7,2,0,42,44,No,0.0
+476,22,Female,Data Science,9.73,61.0,3,5,3,1,1,62,94,Yes,10.41
+477,19,Male,Electronics,6.67,93.6,10,7,3,0,3,60,68,Yes,9.14
+478,22,Female,Electronics,7.43,60.5,6,2,10,1,0,80,69,No,0.0
+479,19,Female,Information Technology,9.43,88.1,2,6,8,4,1,62,68,Yes,9.54
+480,22,Female,Computer Science,9.29,98.8,2,1,5,0,1,43,65,No,0.0
+481,22,Male,Computer Science,6.34,77.5,5,7,4,1,1,60,58,No,0.0
+482,20,Male,Computer Science,9.11,69.4,5,9,7,1,1,76,65,Yes,8.61
+483,19,Female,Computer Science,7.56,88.2,7,5,7,3,0,82,76,Yes,8.99
+484,20,Male,Electronics,7.67,92.7,2,5,9,4,1,70,66,Yes,4.92
+485,19,Male,Data Science,6.1,81.9,7,4,9,3,0,60,69,No,0.0
+486,20,Male,Data Science,5.86,98.7,5,3,5,0,0,65,90,No,0.0
+487,21,Male,Information Technology,8.78,62.1,6,9,8,3,1,80,92,Yes,4.38
+488,22,Male,Information Technology,7.73,80.2,8,5,10,4,0,97,69,Yes,10.26
+489,19,Male,Electronics,7.47,88.7,10,8,1,2,3,74,42,Yes,7.59
+490,19,Male,Data Science,8.78,94.5,4,9,9,2,3,77,98,Yes,11.8
+491,22,Male,Data Science,8.94,67.2,7,5,8,0,2,63,97,Yes,5.54
+492,19,Male,Computer Science,6.22,92.0,6,10,6,2,3,50,82,Yes,7.33
+493,19,Male,Electronics,8.25,82.1,10,9,3,3,0,80,46,Yes,7.03
+494,20,Female,Electronics,6.11,75.9,2,2,3,0,0,68,100,No,0.0
+495,19,Female,Computer Science,8.88,65.3,8,9,8,4,3,86,88,Yes,6.84
+496,21,Male,Electronics,8.46,94.6,10,4,5,0,1,94,96,Yes,5.59
+497,21,Female,Electronics,9.8,66.3,9,6,10,0,1,99,48,Yes,4.44
+498,22,Female,Information Technology,5.81,72.4,5,6,7,1,0,42,92,No,0.0
+499,19,Male,Data Science,5.76,71.6,10,6,5,1,1,40,80,No,0.0
+500,22,Male,Electronics,6.77,94.9,4,2,8,0,2,91,81,No,0.0
+501,21,Male,Information Technology,6.68,86.9,6,7,10,2,2,100,52,Yes,3.28
+502,19,Female,Data Science,6.61,91.9,8,6,10,1,3,93,54,Yes,8.56
+503,19,Female,Computer Science,9.58,70.0,3,1,4,4,3,58,93,Yes,9.85
+504,22,Male,Information Technology,6.62,85.0,10,2,2,3,1,85,44,No,0.0
+505,21,Male,Information Technology,6.72,82.9,1,7,3,1,0,88,68,No,0.0
+506,19,Male,Data Science,8.92,93.3,4,1,8,0,3,61,74,Yes,9.37
+507,22,Female,Computer Science,7.52,96.2,4,1,7,2,2,53,66,No,0.0
+508,21,Female,Information Technology,9.0,60.5,1,1,2,3,3,88,66,Yes,4.77
+509,22,Female,Electronics,5.79,87.0,9,8,6,1,3,96,47,Yes,10.0
+510,20,Female,Electronics,7.69,62.1,3,4,9,2,2,98,71,Yes,10.49
+511,19,Male,Electronics,5.65,82.0,5,4,4,2,0,53,59,No,0.0
+512,20,Male,Computer Science,5.78,71.5,6,2,9,2,3,83,49,No,0.0
+513,21,Male,Information Technology,9.58,72.3,8,1,2,0,3,55,52,Yes,6.47
+514,20,Male,Electronics,6.13,74.1,6,10,2,4,3,72,68,Yes,9.66
+515,20,Female,Computer Science,7.9,84.9,3,9,9,2,1,52,74,Yes,6.76
+516,21,Female,Electronics,7.35,73.4,6,7,7,3,3,77,100,Yes,9.63
+517,22,Male,Data Science,7.06,89.3,1,4,7,1,2,88,93,No,0.0
+518,20,Male,Information Technology,9.55,76.2,4,6,1,3,0,51,47,Yes,10.25
+519,22,Female,Information Technology,5.6,62.7,6,2,6,0,0,94,68,No,0.0
+520,20,Male,Computer Science,8.49,91.4,7,7,7,0,2,90,70,Yes,5.24
+521,22,Female,Computer Science,9.84,71.4,10,2,6,3,1,77,80,Yes,8.31
+522,21,Male,Information Technology,8.02,77.3,3,10,6,4,2,78,69,Yes,3.63
+523,20,Male,Electronics,9.72,87.4,9,8,2,0,0,72,61,Yes,3.24
+524,21,Male,Electronics,5.74,73.3,7,8,6,0,2,72,60,No,0.0
+525,20,Male,Data Science,7.38,62.3,1,1,4,3,1,68,51,No,0.0
+526,21,Male,Electronics,6.67,75.0,2,8,9,0,0,44,50,No,0.0
+527,21,Male,Computer Science,8.79,97.8,1,2,1,4,1,45,41,No,0.0
+528,20,Male,Computer Science,9.92,85.7,9,6,8,4,2,70,89,Yes,7.41
+529,20,Female,Electronics,6.65,86.9,9,1,5,4,3,55,80,Yes,3.33
+530,20,Female,Computer Science,8.44,85.3,7,5,1,1,2,70,41,Yes,7.82
+531,19,Female,Information Technology,6.39,68.0,10,7,4,4,1,64,73,Yes,9.34
+532,22,Female,Information Technology,8.04,76.7,3,10,1,4,2,87,42,Yes,6.05
+533,19,Female,Electronics,7.59,90.0,5,1,6,1,3,85,55,Yes,4.0
+534,19,Male,Information Technology,9.87,64.1,4,2,2,2,1,72,90,Yes,5.51
+535,21,Male,Information Technology,8.24,71.1,7,7,5,0,2,52,43,Yes,9.94
+536,20,Female,Data Science,7.07,71.1,9,6,7,4,1,91,62,Yes,6.16
+537,22,Male,Data Science,6.01,77.3,2,3,2,0,1,49,96,No,0.0
+538,21,Female,Information Technology,6.18,99.2,8,10,6,3,0,63,89,Yes,5.88
+539,19,Female,Electronics,6.51,62.7,9,2,6,0,0,49,59,No,0.0
+540,20,Male,Data Science,6.63,80.7,10,10,5,1,1,80,64,Yes,6.92
+541,21,Male,Computer Science,9.33,67.2,10,4,5,0,2,70,69,Yes,7.07
+542,20,Male,Computer Science,8.03,98.8,9,3,3,0,2,52,57,Yes,3.14
+543,21,Female,Computer Science,7.86,64.5,10,7,10,0,2,42,81,Yes,4.05
+544,20,Male,Electronics,6.02,76.1,7,8,10,2,3,98,50,Yes,4.66
+545,19,Female,Information Technology,9.37,89.5,9,2,2,2,1,89,68,Yes,4.02
+546,22,Female,Computer Science,8.75,88.2,9,10,7,3,1,91,56,Yes,6.07
+547,19,Female,Electronics,5.8,76.9,3,7,1,1,3,73,65,No,0.0
+548,22,Male,Data Science,8.69,73.9,4,8,6,0,1,88,95,Yes,7.58
+549,20,Male,Information Technology,7.95,75.9,2,6,6,0,1,67,96,No,0.0
+550,21,Female,Data Science,5.87,70.6,10,6,3,0,3,58,62,No,0.0
+551,19,Male,Electronics,7.56,68.2,3,10,2,0,0,62,95,No,0.0
+552,22,Male,Computer Science,7.68,79.3,5,1,2,2,1,84,91,No,0.0
+553,19,Male,Computer Science,6.25,70.7,5,4,9,3,3,71,87,Yes,7.5
+554,22,Female,Electronics,9.76,71.5,6,1,5,4,2,52,59,Yes,7.35
+555,19,Female,Computer Science,9.32,86.3,7,4,7,1,0,72,84,Yes,4.42
+556,22,Male,Information Technology,8.51,98.7,7,2,5,0,2,73,41,Yes,9.88
+557,22,Female,Electronics,7.58,84.1,1,5,7,3,1,72,63,No,0.0
+558,20,Male,Data Science,7.35,63.1,2,10,4,4,0,95,70,No,0.0
+559,22,Male,Electronics,8.43,63.0,9,9,8,3,3,44,66,Yes,4.32
+560,20,Male,Information Technology,7.95,98.1,10,10,10,2,1,95,41,Yes,7.97
+561,22,Male,Information Technology,5.78,71.9,2,3,10,4,3,42,96,No,0.0
+562,21,Female,Electronics,7.81,63.7,6,8,7,3,0,100,53,Yes,5.54
+563,21,Female,Electronics,9.13,84.0,1,3,10,2,2,99,43,Yes,4.97
+564,21,Female,Computer Science,7.57,84.9,3,6,5,3,1,46,88,No,0.0
+565,22,Male,Information Technology,5.73,85.9,2,4,6,3,1,63,52,No,0.0
+566,20,Male,Electronics,9.04,70.7,3,8,5,4,3,61,75,Yes,9.0
+567,20,Male,Electronics,6.41,60.6,5,6,7,2,0,84,74,No,0.0
+568,22,Female,Information Technology,6.66,98.6,10,8,2,0,3,100,83,Yes,3.78
+569,21,Male,Electronics,6.24,70.0,6,1,5,1,0,62,93,No,0.0
+570,21,Female,Computer Science,6.99,87.0,9,6,10,4,1,69,94,Yes,8.58
+571,20,Female,Information Technology,8.91,88.3,10,1,3,2,0,99,47,Yes,5.65
+572,21,Female,Computer Science,7.84,84.4,4,1,9,3,1,57,41,Yes,3.78
+573,19,Female,Computer Science,6.42,72.5,7,8,6,2,0,71,45,No,0.0
+574,20,Female,Computer Science,9.45,70.8,6,7,10,1,2,95,70,Yes,5.83
+575,21,Female,Computer Science,9.46,83.9,2,3,3,1,0,92,93,Yes,7.14
+576,20,Male,Information Technology,9.42,94.6,10,6,7,0,2,46,49,Yes,5.13
+577,19,Male,Computer Science,6.57,97.9,8,9,4,0,0,72,83,No,0.0
+578,20,Female,Computer Science,7.53,64.2,7,7,3,1,0,44,60,No,0.0
+579,20,Female,Electronics,9.93,66.2,7,3,8,4,3,88,81,Yes,11.71
+580,20,Male,Information Technology,8.97,97.8,8,6,4,4,3,67,49,Yes,9.33
+581,20,Female,Information Technology,5.62,89.5,1,4,1,3,1,100,62,No,0.0
+582,19,Female,Data Science,5.79,95.3,1,3,6,0,3,47,42,No,0.0
+583,22,Male,Information Technology,7.59,68.1,8,9,10,3,0,54,71,Yes,6.47
+584,20,Female,Information Technology,9.59,83.5,4,10,1,0,3,91,59,Yes,7.81
+585,20,Female,Data Science,7.92,88.0,5,2,5,1,0,43,49,No,0.0
+586,21,Female,Information Technology,7.74,87.2,8,1,7,4,2,73,68,Yes,8.25
+587,20,Male,Information Technology,5.97,76.3,5,2,6,4,0,44,80,No,0.0
+588,21,Male,Information Technology,8.46,60.6,10,7,2,1,1,72,91,Yes,8.9
+589,22,Male,Information Technology,9.2,83.3,4,10,4,3,2,96,90,Yes,3.07
+590,19,Female,Data Science,7.21,70.1,6,1,2,3,1,44,85,No,0.0
+591,19,Female,Information Technology,8.99,78.0,5,6,1,2,1,77,73,Yes,9.0
+592,22,Male,Information Technology,9.84,98.3,7,7,3,0,1,73,76,Yes,5.78
+593,19,Female,Data Science,6.42,76.0,10,9,3,3,3,97,59,Yes,5.63
+594,22,Female,Electronics,7.85,93.6,7,8,7,1,1,65,100,Yes,10.18
+595,22,Female,Computer Science,6.79,67.5,4,6,1,3,2,40,100,No,0.0
+596,22,Female,Electronics,9.07,86.9,5,3,9,4,0,43,47,Yes,6.17
+597,19,Female,Data Science,8.1,99.1,3,8,6,0,1,78,46,Yes,5.69
+598,21,Male,Computer Science,8.36,64.1,4,7,4,2,2,93,45,Yes,8.04
+599,22,Female,Data Science,9.09,60.3,4,3,3,0,1,65,50,No,0.0
+600,20,Male,Data Science,7.28,77.3,3,9,3,4,0,72,83,No,0.0
+601,19,Female,Information Technology,9.62,63.7,10,2,2,4,2,72,57,Yes,4.14
+602,22,Male,Computer Science,7.9,89.9,5,3,2,4,2,47,90,Yes,4.67
+603,22,Female,Information Technology,6.21,96.6,5,2,10,4,0,59,81,No,0.0
+604,20,Male,Computer Science,8.63,77.4,7,1,5,1,2,55,96,Yes,11.93
+605,21,Female,Data Science,9.07,70.3,4,4,9,2,0,60,68,Yes,8.87
+606,21,Male,Data Science,6.93,77.4,4,5,2,4,2,84,64,No,0.0
+607,21,Female,Electronics,9.36,88.9,9,6,2,4,2,94,60,Yes,7.73
+608,22,Male,Computer Science,9.58,60.4,6,5,6,3,0,95,85,Yes,7.47
+609,22,Female,Information Technology,6.75,83.6,4,1,10,2,0,65,42,No,0.0
+610,22,Male,Electronics,9.93,84.5,2,3,2,0,2,62,57,Yes,11.28
+611,19,Male,Electronics,6.13,85.5,6,1,4,2,2,57,63,No,0.0
+612,20,Female,Electronics,6.41,69.7,2,5,6,2,0,70,86,No,0.0
+613,22,Female,Information Technology,6.33,88.6,5,5,5,2,3,91,77,No,0.0
+614,20,Male,Electronics,9.52,63.7,6,6,1,4,0,81,49,Yes,8.47
+615,20,Female,Information Technology,8.44,68.0,4,8,6,4,2,51,66,Yes,3.94
+616,21,Male,Electronics,6.18,95.1,3,10,1,1,2,40,51,No,0.0
+617,19,Male,Information Technology,7.48,89.5,7,1,3,0,2,81,46,No,0.0
+618,22,Male,Data Science,8.27,60.5,2,4,10,3,0,48,56,No,0.0
+619,21,Female,Data Science,5.88,69.9,6,10,5,2,2,42,40,No,0.0
+620,21,Male,Data Science,9.47,68.6,4,1,10,0,3,99,97,Yes,10.42
+621,22,Male,Data Science,9.12,70.8,6,9,5,0,1,90,89,Yes,9.51
+622,20,Female,Data Science,7.77,69.9,4,7,10,1,3,65,65,Yes,10.49
+623,21,Female,Electronics,9.85,62.5,4,7,6,3,0,48,54,Yes,4.81
+624,20,Female,Electronics,7.38,78.4,4,5,10,2,2,81,90,Yes,7.07
+625,19,Female,Electronics,9.93,89.3,9,7,8,3,0,90,99,Yes,9.23
+626,20,Male,Information Technology,8.51,84.3,7,2,5,1,1,55,72,Yes,8.74
+627,19,Male,Information Technology,8.36,86.9,3,4,1,4,0,63,76,No,0.0
+628,20,Male,Information Technology,6.25,63.2,3,7,5,0,2,89,86,No,0.0
+629,21,Male,Information Technology,9.47,98.1,6,3,3,2,1,53,70,Yes,3.89
+630,21,Female,Data Science,7.42,93.5,6,2,4,4,1,100,74,Yes,11.25
+631,19,Male,Data Science,6.23,92.2,4,10,8,1,2,42,40,No,0.0
+632,22,Male,Data Science,5.56,92.9,9,2,7,3,2,73,47,No,0.0
+633,19,Female,Computer Science,8.02,97.3,4,1,5,0,2,72,51,No,0.0
+634,19,Male,Electronics,7.87,81.8,9,5,2,2,0,89,98,Yes,11.23
+635,20,Male,Information Technology,8.74,68.0,4,6,6,4,3,63,93,Yes,4.53
+636,20,Male,Information Technology,9.51,84.7,2,6,6,4,0,48,96,Yes,10.36
+637,19,Male,Data Science,5.86,89.7,2,9,10,0,0,52,58,No,0.0
+638,21,Male,Information Technology,8.79,89.5,5,4,10,3,3,41,64,Yes,11.45
+639,20,Male,Information Technology,6.34,80.9,4,1,6,1,2,46,96,No,0.0
+640,22,Female,Electronics,9.36,62.7,7,6,9,3,2,87,71,Yes,7.92
+641,20,Female,Data Science,9.19,74.8,5,5,8,3,3,60,51,Yes,6.21
+642,20,Male,Electronics,7.93,96.8,6,10,8,3,3,58,52,Yes,3.07
+643,22,Male,Computer Science,8.7,83.4,10,6,1,0,0,64,67,Yes,3.55
+644,19,Female,Computer Science,6.91,81.5,4,3,5,0,1,86,40,No,0.0
+645,22,Male,Computer Science,7.62,70.8,2,2,7,1,3,61,90,No,0.0
+646,19,Male,Data Science,9.2,74.7,10,6,6,3,0,50,45,Yes,4.66
+647,19,Male,Information Technology,7.57,95.8,9,1,5,0,1,72,47,No,0.0
+648,19,Female,Data Science,7.11,86.7,10,7,8,1,2,71,43,Yes,4.57
+649,22,Male,Data Science,7.72,91.5,7,7,3,1,2,60,44,Yes,10.64
+650,19,Female,Information Technology,9.23,78.2,4,10,6,3,0,78,64,Yes,5.68
+651,21,Male,Electronics,7.01,85.2,3,7,5,2,0,59,61,No,0.0
+652,22,Female,Computer Science,6.28,69.9,10,10,8,3,3,47,67,Yes,7.53
+653,21,Female,Electronics,8.7,88.2,3,1,4,2,2,81,78,Yes,3.47
+654,19,Male,Computer Science,9.22,77.1,9,4,8,1,0,76,62,Yes,11.48
+655,20,Female,Data Science,5.95,77.7,5,7,10,0,2,48,43,No,0.0
+656,19,Male,Computer Science,6.58,86.0,3,9,2,4,2,64,91,No,0.0
+657,21,Female,Data Science,6.14,97.5,5,5,9,1,3,64,43,No,0.0
+658,21,Male,Electronics,7.07,62.6,2,2,9,0,1,72,86,No,0.0
+659,22,Male,Data Science,7.53,93.0,4,7,10,1,3,41,98,Yes,3.18
+660,20,Female,Electronics,8.87,71.7,10,10,10,3,0,58,60,Yes,6.27
+661,22,Male,Information Technology,8.43,77.8,2,1,6,2,3,85,76,Yes,7.78
+662,21,Male,Information Technology,8.29,60.9,2,7,4,1,3,59,95,Yes,10.85
+663,19,Female,Information Technology,7.09,72.0,8,6,4,0,2,81,80,No,0.0
+664,20,Male,Data Science,9.29,80.1,1,7,6,3,3,80,41,Yes,4.0
+665,19,Male,Information Technology,7.62,62.2,7,10,5,4,0,81,98,Yes,4.33
+666,19,Female,Computer Science,9.91,79.6,5,3,6,3,1,68,46,Yes,6.85
+667,20,Female,Electronics,8.35,97.1,8,3,7,2,3,45,88,Yes,4.76
+668,22,Male,Electronics,6.07,64.2,1,7,7,3,3,56,55,No,0.0
+669,19,Male,Computer Science,8.54,90.6,7,2,9,4,1,99,56,Yes,10.25
+670,21,Female,Data Science,6.96,76.4,5,1,8,0,0,64,59,No,0.0
+671,19,Female,Data Science,8.59,86.2,4,9,6,1,0,77,97,Yes,10.48
+672,20,Male,Electronics,5.81,70.4,7,9,6,2,3,43,62,No,0.0
+673,20,Female,Information Technology,6.29,66.4,10,7,5,4,2,69,73,Yes,11.77
+674,20,Male,Data Science,9.35,66.4,2,7,1,2,3,59,50,Yes,8.43
+675,22,Male,Data Science,6.52,62.8,1,3,9,3,1,42,73,No,0.0
+676,19,Male,Computer Science,9.27,67.4,1,10,9,2,1,62,72,Yes,3.99
+677,22,Male,Computer Science,6.76,86.6,1,2,9,4,1,90,65,No,0.0
+678,22,Male,Information Technology,8.39,95.3,5,7,8,1,3,57,41,Yes,10.55
+679,20,Female,Data Science,8.62,92.6,10,9,10,1,3,65,100,Yes,8.88
+680,20,Female,Data Science,7.81,87.4,7,1,3,2,0,95,62,No,0.0
+681,22,Female,Computer Science,6.87,64.4,2,4,1,0,2,75,80,No,0.0
+682,19,Female,Data Science,6.46,71.6,10,6,8,2,3,47,61,Yes,3.05
+683,21,Male,Electronics,5.65,72.4,8,7,7,3,0,56,97,No,0.0
+684,22,Male,Computer Science,6.87,70.0,4,10,5,1,3,70,73,Yes,10.63
+685,19,Male,Information Technology,8.44,80.6,3,7,10,1,0,76,99,Yes,6.21
+686,20,Male,Computer Science,9.72,81.4,10,10,7,1,0,84,54,Yes,3.97
+687,20,Female,Data Science,9.42,74.3,8,2,10,0,2,96,49,Yes,6.79
+688,19,Male,Information Technology,8.95,74.2,2,4,4,0,3,72,54,Yes,9.54
+689,21,Male,Computer Science,9.05,93.1,3,5,9,4,0,66,81,Yes,3.97
+690,20,Female,Electronics,8.49,91.6,3,1,10,2,1,84,68,Yes,4.85
+691,20,Female,Electronics,6.67,72.3,10,1,2,2,1,43,96,No,0.0
+692,20,Female,Computer Science,9.58,96.6,1,10,9,3,1,61,62,Yes,10.17
+693,19,Female,Electronics,8.52,98.1,6,3,9,1,2,65,98,Yes,3.57
+694,22,Male,Electronics,8.02,73.1,2,10,5,0,0,71,56,No,0.0
+695,20,Male,Electronics,6.0,74.2,1,3,1,3,2,63,99,No,0.0
+696,22,Female,Information Technology,7.51,80.2,2,8,7,3,3,85,48,Yes,9.8
+697,21,Male,Electronics,7.57,97.6,6,9,10,0,3,74,89,Yes,11.68
+698,20,Male,Electronics,9.39,95.1,4,1,10,2,0,76,75,Yes,4.03
+699,20,Male,Electronics,7.96,64.1,6,2,4,1,1,71,48,No,0.0
+700,21,Female,Information Technology,7.21,75.7,9,10,9,2,0,46,55,Yes,10.29
+701,20,Male,Computer Science,9.9,82.1,10,2,6,3,0,72,75,Yes,5.4
+702,22,Female,Data Science,6.0,80.1,10,4,3,1,0,70,87,No,0.0
+703,19,Male,Electronics,7.4,67.8,8,2,6,4,2,94,90,Yes,10.43
+704,22,Male,Computer Science,5.69,94.4,1,7,10,3,3,100,72,Yes,11.88
+705,19,Male,Electronics,8.83,87.1,8,9,6,2,0,51,94,Yes,8.01
+706,19,Female,Information Technology,9.63,93.5,9,7,5,2,0,50,70,Yes,5.5
+707,22,Male,Computer Science,6.76,94.4,6,6,2,2,0,63,45,No,0.0
+708,22,Female,Information Technology,9.36,89.9,10,10,10,0,2,47,49,Yes,4.53
+709,22,Female,Electronics,6.81,77.6,5,1,10,3,2,71,55,No,0.0
+710,22,Female,Electronics,9.6,84.4,6,10,2,1,2,96,43,Yes,9.96
+711,21,Male,Information Technology,8.89,66.4,6,9,7,2,0,77,93,Yes,10.88
+712,20,Male,Data Science,9.12,86.9,9,5,2,2,1,99,61,Yes,3.24
+713,19,Male,Information Technology,5.58,67.2,4,5,6,0,1,61,52,No,0.0
+714,22,Male,Electronics,9.83,87.8,2,6,5,1,1,73,55,Yes,4.93
+715,22,Female,Information Technology,8.77,69.2,9,9,4,3,3,58,91,Yes,6.07
+716,22,Female,Data Science,6.87,64.7,2,8,7,4,0,91,68,No,0.0
+717,21,Female,Information Technology,9.23,66.6,10,8,8,0,1,59,45,Yes,4.73
+718,22,Male,Data Science,6.77,60.1,9,8,4,3,1,95,65,Yes,8.75
+719,22,Female,Data Science,9.43,88.7,2,1,1,4,1,53,50,Yes,8.89
+720,22,Male,Information Technology,6.01,89.3,8,1,1,2,0,72,63,No,0.0
+721,20,Female,Information Technology,8.67,80.6,9,8,1,2,1,49,68,Yes,9.98
+722,21,Male,Computer Science,7.93,66.5,10,5,1,1,1,55,42,No,0.0
+723,22,Male,Electronics,5.93,63.3,9,9,5,4,0,43,91,No,0.0
+724,19,Female,Data Science,6.59,60.8,10,2,4,2,3,66,49,No,0.0
+725,19,Female,Computer Science,5.56,66.6,9,9,9,2,2,67,100,Yes,6.83
+726,19,Female,Information Technology,7.61,95.6,2,8,3,1,1,100,99,No,0.0
+727,21,Female,Electronics,6.86,69.7,4,9,7,3,2,82,40,Yes,9.11
+728,21,Male,Computer Science,8.19,74.2,7,4,8,2,3,55,91,Yes,8.47
+729,19,Female,Data Science,6.84,64.2,2,1,6,0,3,98,82,No,0.0
+730,22,Female,Computer Science,6.85,68.9,1,1,10,0,1,91,65,No,0.0
+731,21,Female,Data Science,8.84,80.8,3,5,1,3,0,72,97,Yes,4.51
+732,19,Male,Information Technology,5.72,84.3,4,2,8,4,3,87,51,No,0.0
+733,19,Male,Electronics,9.56,69.8,8,8,10,1,2,58,53,Yes,8.81
+734,22,Female,Electronics,9.34,62.3,6,10,3,0,2,60,64,Yes,9.19
+735,20,Male,Electronics,8.51,75.6,2,5,8,0,2,61,47,Yes,6.35
+736,21,Female,Information Technology,8.17,69.4,9,5,4,3,2,48,82,Yes,5.36
+737,22,Male,Data Science,9.52,68.8,2,2,8,4,3,48,43,Yes,9.84
+738,19,Male,Information Technology,6.33,98.4,5,7,1,4,1,48,67,No,0.0
+739,19,Male,Electronics,5.86,84.7,4,8,3,3,1,66,46,No,0.0
+740,22,Male,Information Technology,6.58,82.3,7,10,6,0,2,56,49,No,0.0
+741,21,Female,Information Technology,9.08,76.6,8,1,9,1,1,83,90,Yes,6.36
+742,20,Female,Information Technology,5.66,77.2,5,2,2,0,2,96,96,No,0.0
+743,20,Female,Data Science,8.12,81.6,10,10,1,4,2,84,97,Yes,10.52
+744,19,Male,Computer Science,9.98,87.9,5,4,10,0,0,47,75,Yes,9.19
+745,21,Female,Computer Science,9.35,88.1,2,5,3,1,3,55,41,Yes,7.61
+746,20,Female,Information Technology,7.85,66.9,8,2,4,2,3,57,65,Yes,7.13
+747,21,Female,Computer Science,5.79,80.0,2,1,5,0,2,100,92,No,0.0
+748,21,Male,Computer Science,9.24,76.5,10,9,3,3,3,98,89,Yes,9.12
+749,19,Male,Information Technology,8.2,94.8,6,1,10,2,1,72,53,Yes,8.03
+750,20,Male,Information Technology,6.02,85.3,8,4,2,3,2,40,97,No,0.0
+751,22,Female,Electronics,5.92,81.3,6,2,2,3,0,51,55,No,0.0
+752,19,Female,Computer Science,9.59,64.6,4,4,7,3,1,45,93,Yes,11.57
+753,20,Female,Data Science,8.51,84.2,4,8,9,0,0,80,82,Yes,10.12
+754,20,Male,Information Technology,9.23,64.7,6,8,10,4,0,94,81,Yes,6.37
+755,20,Male,Electronics,9.46,73.5,4,9,2,2,3,44,56,Yes,8.07
+756,20,Female,Data Science,8.07,65.7,8,5,7,1,3,98,85,Yes,3.43
+757,20,Male,Computer Science,7.83,87.7,9,7,7,4,2,55,61,Yes,3.37
+758,21,Male,Electronics,7.44,68.3,1,3,7,0,3,57,43,No,0.0
+759,19,Male,Information Technology,6.93,75.7,4,10,3,3,0,88,58,No,0.0
+760,21,Male,Data Science,7.46,95.8,4,4,7,1,0,57,41,No,0.0
+761,22,Female,Information Technology,8.98,68.2,2,10,1,2,1,40,78,Yes,8.03
+762,20,Male,Computer Science,8.21,80.3,6,9,10,4,0,58,48,Yes,7.79
+763,19,Male,Data Science,9.52,76.8,3,10,1,4,2,93,99,Yes,6.62
+764,20,Male,Computer Science,7.5,60.7,7,10,5,1,2,100,58,Yes,4.45
+765,19,Male,Computer Science,8.23,91.7,5,1,2,0,3,47,55,No,0.0
+766,21,Female,Electronics,8.34,62.8,4,2,9,2,3,42,93,Yes,9.85
+767,19,Female,Information Technology,8.16,79.0,5,5,7,1,3,97,64,Yes,11.35
+768,22,Male,Data Science,8.66,82.4,8,3,4,3,2,64,87,Yes,7.12
+769,22,Male,Computer Science,6.57,85.1,3,2,4,2,0,97,57,No,0.0
+770,19,Male,Computer Science,7.81,87.5,7,1,2,4,3,44,62,Yes,11.23
+771,19,Male,Data Science,5.97,70.1,6,10,5,1,1,94,92,No,0.0
+772,19,Male,Computer Science,7.23,60.4,1,3,4,4,3,79,60,No,0.0
+773,19,Male,Electronics,7.69,88.9,7,1,1,4,2,58,50,No,0.0
+774,22,Female,Electronics,8.44,81.4,7,1,8,4,3,57,78,Yes,8.39
+775,20,Male,Electronics,9.78,93.4,1,1,3,0,0,89,80,No,0.0
+776,19,Female,Electronics,8.2,92.9,9,8,6,4,3,92,43,Yes,9.16
+777,19,Female,Computer Science,8.85,93.7,6,3,4,3,2,70,64,Yes,10.15
+778,22,Male,Data Science,7.78,79.4,2,1,9,3,2,72,71,Yes,4.02
+779,22,Female,Data Science,8.35,73.3,5,7,7,2,1,86,69,Yes,7.8
+780,21,Female,Data Science,5.82,91.7,4,10,9,4,2,57,84,Yes,3.91
+781,19,Female,Data Science,6.64,78.1,7,3,10,4,1,100,98,Yes,10.85
+782,21,Female,Information Technology,7.13,67.3,8,8,3,1,0,96,65,No,0.0
+783,22,Female,Data Science,7.63,94.2,1,4,1,0,2,78,96,No,0.0
+784,22,Female,Information Technology,5.71,95.3,5,4,5,2,3,55,100,No,0.0
+785,20,Male,Information Technology,6.13,78.7,3,5,3,4,0,55,75,No,0.0
+786,19,Female,Electronics,6.75,63.0,1,6,6,1,3,86,90,No,0.0
+787,21,Female,Information Technology,9.87,75.5,3,7,8,0,3,77,73,Yes,5.53
+788,22,Female,Computer Science,6.99,92.1,6,4,4,2,3,80,48,Yes,5.2
+789,22,Male,Information Technology,7.67,96.1,7,8,5,2,0,46,51,Yes,8.04
+790,21,Female,Electronics,6.38,68.1,8,6,5,4,0,53,41,No,0.0
+791,20,Male,Information Technology,8.25,62.7,4,1,4,2,2,82,77,No,0.0
+792,22,Female,Computer Science,6.76,95.1,3,1,4,1,3,92,44,No,0.0
+793,19,Male,Computer Science,6.43,75.6,5,9,4,2,1,87,44,No,0.0
+794,22,Male,Computer Science,7.82,81.7,9,10,4,3,2,64,91,Yes,9.32
+795,19,Female,Electronics,5.52,98.7,6,6,4,1,0,71,61,No,0.0
+796,21,Female,Electronics,5.53,62.7,9,10,5,0,1,77,44,No,0.0
+797,19,Male,Data Science,6.49,85.9,6,8,2,0,0,61,98,No,0.0
+798,21,Female,Electronics,5.67,63.0,2,7,2,4,1,98,43,No,0.0
+799,19,Male,Computer Science,5.99,75.0,5,6,9,4,2,55,100,Yes,6.82
+800,21,Male,Computer Science,7.02,92.2,9,4,2,3,1,91,48,No,0.0
+801,19,Male,Electronics,9.11,77.3,8,7,6,0,2,68,68,Yes,8.97
+802,20,Male,Information Technology,8.07,99.9,7,9,2,0,0,55,61,No,0.0
+803,19,Male,Electronics,7.81,82.4,1,10,5,0,1,51,66,No,0.0
+804,19,Female,Electronics,6.82,72.8,4,10,4,0,3,56,49,No,0.0
+805,20,Male,Computer Science,9.69,68.8,7,7,7,2,3,76,55,Yes,11.93
+806,22,Male,Data Science,7.29,74.0,7,1,7,1,0,66,81,No,0.0
+807,22,Female,Computer Science,5.89,74.9,6,10,6,1,1,64,100,No,0.0
+808,19,Male,Data Science,8.28,62.7,8,9,10,3,3,52,81,Yes,4.0
+809,20,Female,Computer Science,6.01,74.8,6,4,5,2,2,47,100,No,0.0
+810,19,Female,Electronics,7.05,78.6,10,3,1,0,1,95,90,No,0.0
+811,21,Female,Computer Science,7.78,88.9,3,4,3,0,1,44,49,No,0.0
+812,21,Male,Computer Science,9.43,86.3,4,4,9,4,3,51,45,Yes,6.22
+813,19,Male,Computer Science,7.72,88.4,3,10,1,4,2,80,88,Yes,11.47
+814,22,Male,Electronics,8.66,60.3,1,2,5,3,2,42,44,No,0.0
+815,22,Female,Electronics,9.97,68.7,10,1,2,0,2,74,97,Yes,5.66
+816,19,Male,Electronics,6.09,86.5,5,10,4,3,1,72,45,No,0.0
+817,19,Female,Electronics,6.74,79.4,1,1,1,2,0,96,98,No,0.0
+818,21,Male,Data Science,7.28,60.2,1,8,3,1,1,61,95,No,0.0
+819,22,Female,Data Science,7.4,92.2,2,2,10,0,1,89,98,No,0.0
+820,19,Male,Information Technology,7.35,90.9,4,10,7,2,3,95,86,Yes,9.63
+821,21,Male,Electronics,9.58,81.9,6,5,10,0,0,83,64,Yes,4.6
+822,22,Male,Data Science,8.71,62.7,8,4,3,4,2,48,98,Yes,10.42
+823,20,Female,Computer Science,8.24,90.7,3,8,4,3,3,80,90,Yes,5.49
+824,21,Female,Electronics,6.89,83.3,1,2,2,4,1,57,89,No,0.0
+825,22,Male,Information Technology,9.21,91.3,3,10,3,1,0,89,100,Yes,6.28
+826,22,Male,Information Technology,9.8,90.1,3,9,9,4,2,68,43,Yes,10.72
+827,21,Female,Information Technology,9.2,92.1,5,7,3,0,2,78,79,Yes,5.4
+828,20,Female,Computer Science,5.51,80.7,4,7,5,4,1,66,98,No,0.0
+829,21,Female,Data Science,8.36,65.6,4,1,2,0,2,75,87,No,0.0
+830,22,Male,Computer Science,5.73,86.8,9,2,4,1,2,84,71,No,0.0
+831,19,Female,Electronics,6.66,84.8,7,4,7,4,0,56,95,No,0.0
+832,19,Male,Information Technology,5.77,89.7,4,4,7,3,3,95,90,No,0.0
+833,21,Female,Computer Science,8.22,66.8,3,3,3,3,0,73,91,No,0.0
+834,22,Male,Computer Science,8.59,67.8,6,7,5,3,3,85,74,Yes,3.41
+835,19,Female,Data Science,6.02,95.6,3,8,1,4,3,42,49,No,0.0
+836,22,Female,Data Science,7.23,90.0,6,2,10,4,3,44,73,Yes,9.35
+837,21,Female,Information Technology,7.55,96.3,9,4,10,4,2,53,75,Yes,9.71
+838,19,Female,Computer Science,7.16,90.3,6,3,10,0,0,42,45,No,0.0
+839,22,Female,Computer Science,6.04,83.9,4,2,1,1,2,62,82,No,0.0
+840,19,Male,Data Science,7.39,86.2,5,6,5,3,1,78,85,Yes,6.97
+841,21,Female,Computer Science,8.88,95.6,6,4,10,0,0,69,55,Yes,9.6
+842,22,Female,Computer Science,5.82,83.2,3,6,9,3,3,89,98,Yes,8.63
+843,19,Female,Computer Science,5.86,85.3,8,2,1,0,2,84,92,No,0.0
+844,21,Male,Data Science,7.1,66.3,4,4,1,4,2,100,58,No,0.0
+845,19,Female,Information Technology,9.74,79.0,8,6,4,3,0,62,73,Yes,3.37
+846,19,Male,Electronics,8.51,88.7,10,5,4,4,0,66,64,Yes,6.41
+847,20,Female,Information Technology,8.55,70.8,10,3,2,3,3,93,70,Yes,3.31
+848,20,Female,Electronics,7.13,68.1,3,8,9,2,3,49,88,Yes,3.92
+849,21,Male,Computer Science,8.17,72.6,10,7,9,0,1,64,80,Yes,8.41
+850,20,Female,Information Technology,5.55,69.7,7,3,2,2,3,52,56,No,0.0
+851,21,Male,Electronics,8.36,68.6,9,6,9,0,2,55,86,Yes,4.08
+852,20,Male,Data Science,9.61,77.0,4,4,6,1,1,80,69,Yes,7.06
+853,19,Female,Data Science,8.26,96.3,8,5,8,3,1,73,78,Yes,11.2
+854,21,Male,Information Technology,9.43,80.3,3,5,10,1,1,94,93,Yes,10.33
+855,21,Female,Information Technology,8.76,67.5,7,7,4,1,0,76,94,Yes,7.68
+856,19,Female,Computer Science,6.04,63.1,3,5,2,0,3,100,70,No,0.0
+857,21,Male,Information Technology,9.56,87.8,7,3,2,2,1,61,58,Yes,7.7
+858,21,Male,Computer Science,5.8,75.3,10,10,9,4,0,56,74,Yes,4.42
+859,20,Male,Computer Science,7.9,92.9,10,5,1,0,0,62,68,No,0.0
+860,21,Male,Data Science,6.14,86.4,6,7,7,4,1,93,98,Yes,4.7
+861,22,Female,Data Science,5.55,91.8,2,5,3,1,1,75,40,No,0.0
+862,19,Female,Electronics,7.4,70.9,3,5,3,4,2,88,43,No,0.0
+863,20,Male,Data Science,6.83,87.7,6,9,2,2,1,48,67,No,0.0
+864,20,Female,Data Science,7.69,70.6,4,3,10,0,2,91,57,Yes,6.9
+865,22,Female,Information Technology,8.1,97.6,6,6,6,2,1,41,65,Yes,7.44
+866,19,Female,Data Science,5.7,85.5,1,1,10,2,1,71,79,No,0.0
+867,19,Female,Electronics,6.05,73.0,10,10,2,0,3,95,58,No,0.0
+868,20,Male,Information Technology,8.01,70.8,1,5,10,2,1,89,94,Yes,10.22
+869,21,Male,Electronics,7.04,67.6,3,8,4,3,1,92,94,No,0.0
+870,20,Female,Data Science,8.78,87.8,8,5,10,3,2,98,99,Yes,3.38
+871,19,Male,Electronics,8.44,68.7,8,9,9,3,2,61,96,Yes,8.62
+872,22,Male,Information Technology,9.31,83.8,4,6,9,4,3,82,45,Yes,8.06
+873,20,Male,Computer Science,8.62,70.6,6,8,6,2,1,52,40,Yes,6.62
+874,19,Female,Electronics,7.43,86.5,8,10,4,0,1,47,47,No,0.0
+875,20,Female,Electronics,8.53,92.6,7,8,7,0,2,98,72,Yes,7.96
+876,21,Female,Information Technology,6.74,91.1,7,3,1,4,0,40,90,No,0.0
+877,20,Male,Information Technology,6.88,90.4,4,7,4,0,0,56,82,No,0.0
+878,20,Female,Electronics,9.05,67.5,9,7,5,3,0,51,60,Yes,6.85
+879,19,Female,Data Science,7.51,63.5,10,10,8,2,2,43,63,Yes,10.92
+880,19,Male,Electronics,9.09,88.0,6,6,2,0,2,92,64,Yes,11.65
+881,19,Female,Information Technology,9.2,74.7,3,7,5,0,0,52,86,Yes,11.04
+882,20,Female,Computer Science,9.36,77.3,5,2,6,1,0,70,94,Yes,9.47
+883,21,Male,Computer Science,9.62,61.2,5,9,5,1,1,100,96,Yes,8.26
+884,22,Male,Data Science,7.44,70.4,5,10,9,1,2,80,82,Yes,9.2
+885,22,Male,Electronics,6.93,61.3,8,10,10,2,2,98,58,Yes,11.45
+886,19,Female,Computer Science,8.12,95.2,9,1,1,3,0,46,68,No,0.0
+887,19,Female,Electronics,7.17,69.7,9,1,3,3,0,62,92,No,0.0
+888,20,Female,Information Technology,8.2,82.3,6,3,2,3,3,63,49,Yes,9.21
+889,22,Male,Computer Science,8.68,61.6,6,3,3,2,2,44,95,Yes,9.11
+890,19,Male,Data Science,8.6,86.7,9,1,10,2,3,44,51,Yes,5.27
+891,21,Female,Information Technology,7.19,72.9,4,7,9,1,1,56,72,No,0.0
+892,21,Female,Data Science,6.25,95.9,6,4,9,0,3,69,95,Yes,10.16
+893,19,Male,Information Technology,7.44,95.5,4,10,10,4,0,48,46,Yes,7.28
+894,19,Male,Computer Science,6.14,73.0,1,2,2,4,2,45,56,No,0.0
+895,22,Male,Data Science,9.51,96.0,7,10,3,0,2,64,100,Yes,6.24
+896,22,Male,Data Science,7.06,99.8,10,5,4,1,3,58,100,Yes,11.45
+897,20,Female,Information Technology,6.2,93.0,6,6,9,0,3,55,97,Yes,7.81
+898,22,Male,Data Science,5.61,93.8,9,9,3,0,1,60,99,No,0.0
+899,21,Female,Information Technology,8.41,70.0,7,4,7,4,1,41,49,Yes,3.28
+900,21,Female,Information Technology,8.37,83.1,7,2,3,1,0,49,70,No,0.0
+901,19,Female,Information Technology,7.03,62.7,2,5,7,2,0,55,99,No,0.0
+902,22,Male,Information Technology,5.82,63.8,9,3,7,4,0,76,45,No,0.0
+903,20,Male,Computer Science,7.34,100.0,10,2,9,2,3,54,56,Yes,7.57
+904,21,Male,Information Technology,6.9,73.1,9,1,2,1,3,52,89,No,0.0
+905,21,Male,Electronics,8.55,89.9,6,10,6,0,2,52,76,Yes,10.51
+906,20,Female,Data Science,8.23,92.3,3,2,9,3,0,71,57,Yes,10.06
+907,20,Male,Electronics,7.14,94.3,1,6,2,3,3,84,65,No,0.0
+908,21,Male,Computer Science,6.48,99.9,4,8,2,1,2,86,88,No,0.0
+909,21,Female,Electronics,9.95,69.7,3,3,5,3,0,85,93,Yes,10.36
+910,20,Male,Data Science,7.54,61.6,1,9,10,2,1,47,55,No,0.0
+911,21,Female,Electronics,8.6,76.4,3,9,10,3,1,82,47,Yes,5.79
+912,19,Female,Computer Science,6.13,65.2,4,2,10,1,3,57,63,No,0.0
+913,19,Female,Information Technology,7.69,60.9,8,8,8,1,2,95,52,Yes,4.89
+914,20,Female,Electronics,5.62,74.4,9,10,9,2,1,75,68,Yes,5.86
+915,22,Female,Computer Science,7.77,91.3,3,5,2,3,2,65,71,No,0.0
+916,20,Female,Computer Science,9.84,82.6,6,4,5,3,2,49,63,Yes,8.01
+917,20,Female,Data Science,7.23,72.5,10,10,7,0,1,70,55,Yes,3.97
+918,22,Female,Data Science,5.68,86.2,5,5,6,4,2,72,50,No,0.0
+919,22,Male,Electronics,5.64,69.3,6,4,6,1,1,68,71,No,0.0
+920,22,Male,Information Technology,7.25,60.6,4,8,7,0,3,44,45,No,0.0
+921,19,Male,Computer Science,6.22,90.6,10,4,3,1,0,52,98,No,0.0
+922,21,Male,Electronics,5.61,84.9,6,10,3,0,0,40,74,No,0.0
+923,19,Female,Computer Science,8.9,90.5,7,6,10,4,3,62,72,Yes,7.81
+924,21,Male,Computer Science,7.56,61.6,9,2,9,0,1,79,57,No,0.0
+925,19,Female,Information Technology,6.8,93.5,10,5,8,1,1,42,76,Yes,4.19
+926,21,Male,Information Technology,9.55,84.8,7,6,5,3,1,42,52,Yes,5.39
+927,19,Male,Electronics,6.02,82.5,6,5,6,1,1,46,49,No,0.0
+928,22,Male,Information Technology,9.8,85.0,1,2,10,2,3,75,76,Yes,3.27
+929,20,Female,Information Technology,6.91,94.6,2,7,1,2,0,74,65,No,0.0
+930,19,Male,Electronics,9.5,83.5,1,4,10,2,2,54,85,Yes,8.6
+931,21,Female,Information Technology,8.21,83.2,9,8,1,2,2,79,56,Yes,8.41
+932,22,Female,Data Science,9.22,99.6,10,7,4,4,0,42,40,Yes,7.91
+933,19,Male,Computer Science,9.93,90.3,10,7,2,3,3,68,64,Yes,8.31
+934,19,Male,Computer Science,6.8,77.7,9,9,7,3,2,69,73,Yes,11.41
+935,22,Male,Computer Science,9.83,88.3,7,1,2,1,0,78,78,Yes,3.08
+936,19,Female,Computer Science,7.25,75.6,2,10,10,0,3,57,49,Yes,3.43
+937,20,Male,Electronics,7.23,69.2,6,6,2,1,2,50,59,No,0.0
+938,19,Female,Computer Science,7.03,83.9,4,6,5,1,1,82,46,No,0.0
+939,20,Female,Computer Science,7.94,97.1,1,6,4,1,1,88,95,No,0.0
+940,20,Male,Computer Science,6.19,97.2,1,6,8,1,3,99,55,No,0.0
+941,22,Male,Computer Science,7.99,73.7,5,10,4,3,1,77,76,Yes,7.14
+942,19,Female,Data Science,7.94,81.1,2,7,6,0,3,79,68,Yes,11.93
+943,22,Female,Computer Science,8.93,68.5,4,10,5,1,0,40,99,Yes,5.04
+944,19,Female,Data Science,9.25,99.8,1,6,2,3,0,68,51,Yes,5.8
+945,19,Male,Electronics,7.48,99.2,4,1,8,1,2,49,56,No,0.0
+946,21,Female,Information Technology,6.86,86.0,6,3,2,2,3,67,87,No,0.0
+947,19,Male,Computer Science,6.67,92.2,10,2,9,1,2,96,59,Yes,7.23
+948,22,Female,Information Technology,6.38,88.6,4,6,9,1,2,70,65,No,0.0
+949,20,Female,Information Technology,5.76,83.7,1,8,3,4,0,58,87,No,0.0
+950,19,Male,Electronics,7.04,62.1,7,3,4,2,2,42,58,No,0.0
+951,21,Female,Information Technology,6.72,78.2,2,10,8,0,1,75,97,No,0.0
+952,22,Male,Data Science,9.85,87.0,9,8,9,1,2,82,86,Yes,10.46
+953,19,Male,Information Technology,8.01,87.1,3,8,3,0,3,54,51,No,0.0
+954,22,Female,Information Technology,7.06,74.9,8,5,5,2,1,72,60,No,0.0
+955,21,Male,Information Technology,8.11,97.7,8,8,8,1,0,80,81,Yes,7.55
+956,21,Male,Computer Science,6.13,66.7,3,6,3,4,3,82,100,No,0.0
+957,22,Female,Computer Science,7.5,80.0,4,5,7,3,1,90,97,Yes,10.89
+958,19,Male,Data Science,8.32,87.6,2,9,8,4,3,84,100,Yes,4.13
+959,20,Male,Data Science,7.7,87.9,4,7,10,4,1,65,93,Yes,10.88
+960,21,Male,Computer Science,7.31,85.9,9,8,3,3,3,55,73,Yes,7.61
+961,19,Female,Data Science,9.97,71.0,2,1,2,3,3,75,46,Yes,6.64
+962,19,Male,Computer Science,9.46,66.2,3,2,10,3,1,72,84,Yes,4.46
+963,20,Female,Electronics,8.31,85.4,4,8,7,1,0,59,74,Yes,9.31
+964,21,Female,Information Technology,8.06,84.0,5,9,9,0,0,52,54,Yes,11.34
+965,21,Male,Information Technology,8.29,67.2,1,4,1,0,3,72,40,No,0.0
+966,19,Male,Data Science,6.41,88.2,7,10,3,3,3,44,65,Yes,5.17
+967,19,Male,Computer Science,7.28,78.2,10,10,5,4,0,76,74,Yes,7.99
+968,20,Female,Computer Science,5.68,86.7,7,9,3,2,0,53,64,No,0.0
+969,20,Male,Data Science,7.64,93.5,9,4,1,3,2,66,81,Yes,3.03
+970,21,Male,Computer Science,7.94,66.8,4,10,7,4,0,62,98,Yes,8.68
+971,22,Male,Electronics,6.52,60.8,6,10,7,4,3,53,98,Yes,8.37
+972,21,Male,Information Technology,9.84,91.2,2,10,10,1,1,79,54,Yes,5.86
+973,19,Male,Data Science,9.59,84.4,4,9,8,1,0,43,61,Yes,7.06
+974,21,Female,Data Science,8.75,88.0,2,7,5,0,2,78,98,Yes,5.22
+975,22,Female,Computer Science,7.9,93.5,10,2,10,0,2,91,45,Yes,10.11
+976,20,Male,Data Science,9.41,92.1,5,9,5,2,2,58,91,Yes,8.71
+977,22,Male,Electronics,6.09,98.4,7,4,5,2,1,86,54,No,0.0
+978,22,Male,Computer Science,9.06,81.4,1,8,1,2,0,93,63,No,0.0
+979,22,Male,Computer Science,6.06,79.5,10,7,10,2,0,43,60,No,0.0
+980,20,Female,Computer Science,9.07,76.1,10,7,5,4,0,69,46,Yes,10.4
+981,22,Male,Computer Science,6.74,66.1,7,8,6,4,1,58,96,Yes,7.06
+982,22,Female,Electronics,9.45,82.9,10,1,1,0,1,70,100,Yes,7.51
+983,22,Female,Computer Science,9.75,71.1,6,5,7,1,3,70,68,Yes,7.69
+984,19,Male,Data Science,6.17,96.9,6,2,1,1,2,48,71,No,0.0
+985,22,Female,Electronics,7.58,83.3,8,2,2,3,2,92,71,Yes,5.3
+986,20,Female,Information Technology,9.91,83.7,8,1,2,4,0,52,92,Yes,4.08
+987,22,Female,Information Technology,7.68,74.2,6,5,5,2,1,53,98,Yes,3.89
+988,22,Female,Data Science,9.39,62.1,3,2,10,2,1,94,44,Yes,9.82
+989,20,Male,Data Science,8.15,61.3,5,4,7,3,0,99,43,Yes,5.01
+990,22,Male,Electronics,7.19,76.9,2,3,1,1,0,85,61,No,0.0
+991,20,Female,Information Technology,6.79,63.4,5,3,10,2,3,93,57,Yes,10.18
+992,22,Male,Information Technology,6.41,84.3,9,2,1,1,2,49,74,No,0.0
+993,20,Male,Information Technology,8.93,95.2,10,6,1,3,2,87,56,Yes,8.63
+994,22,Male,Information Technology,7.24,95.3,1,2,6,1,2,70,89,No,0.0
+995,22,Male,Information Technology,7.8,86.4,10,8,2,1,3,76,89,Yes,4.14
+996,19,Male,Computer Science,7.72,68.4,5,8,1,1,0,62,95,No,0.0
+997,19,Female,Data Science,8.1,94.5,6,5,6,2,0,66,63,Yes,3.13
+998,22,Male,Computer Science,9.4,95.4,7,10,2,0,2,45,41,Yes,10.57
+999,22,Male,Information Technology,9.91,67.9,9,7,6,4,2,65,52,Yes,7.62
+1000,21,Male,Electronics,7.33,89.5,6,4,10,1,3,41,93,Yes,4.25
