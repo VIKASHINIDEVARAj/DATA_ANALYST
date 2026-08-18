@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
                  PYTHON 🐍
                      │
         ┌────────────┼────────────┐
@@ -13,7 +13,7 @@
                      │
                      ↓
                 POWER BI 📊
-=======
+
 # 🎓 Student Placement Analytics & Machine Learning Prediction
 
 An end-to-end data analytics and machine learning solution designed to analyze student academic and technical parameters, understand factors influencing campus placements, and predict placement outcomes.
