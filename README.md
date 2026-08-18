@@ -16,7 +16,7 @@ This project combines **Exploratory Data Analysis (EDA)**, **Supervised Machine 
 ## 🛠️ Tech Stack & Tools
 * **Programming & ML:** Python (`pandas`, `numpy`, `scikit-learn`)
 * **Business Intelligence:** Power BI (DAX, Interactive Dashboards, Data Modeling)
-* **Environment:** Jupyter Notebook / VS Code
+* **Environment:**  VS Code
 
 ---
 
@@ -46,5 +46,5 @@ This project combines **Exploratory Data Analysis (EDA)**, **Supervised Machine 
 
 1. **Clone the repository:**
    ```bash
-   git clone 
-   cd student-placement-analytics
+   git clone https://github.com/VIKASHINIDEVARAj/DATA_ANALYST.git
+   
